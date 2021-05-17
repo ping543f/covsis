@@ -1,0 +1,2912 @@
+United Kingdom,0.286699547,fever
+United Kingdom,0.249820152,dry cough
+United Kingdom,0.057634432,tiredness or fatigue
+United Kingdom,0.019944226,aches and muscles
+United Kingdom,0.078068857,sore throat
+United Kingdom,0.030178438,diarrhoea
+United Kingdom,0.006866945,conjunctivitis
+United Kingdom,0.043795629,headache
+United Kingdom,0.00000563,loss of taste or smell
+United Kingdom,0.032280861,a rash on skin or discolouration of fingers or toes
+United Kingdom,0.005576875,difficulty breathing or shortness of breath
+United Kingdom,0.177045699,chest pain or pressure
+United Kingdom,0.012082712,loss of speech or movement
+India,0.318883985,fever
+India,0.273230401,dry cough
+India,0.03262238,tiredness or fatigue
+India,0.01346499,aches and muscles
+India,0.059181715,sore throat
+India,0.025920971,diarrhoea
+India,0.001471321,conjunctivitis
+India,0.033317582,headache
+India,0.0,loss of taste or smell
+India,0.008115454,a rash on skin or discolouration of fingers or toes
+India,0.005779804,difficulty breathing or shortness of breath
+India,0.139393425,chest pain or pressure
+India,0.011694895,loss of speech or movement
+Ecuador,0.29336701,fever
+Ecuador,0.156120106,dry cough
+Ecuador,0.031639201,tiredness or fatigue
+Ecuador,0.027178292,aches and muscles
+Ecuador,0.013332434,sore throat
+Ecuador,0.006217994,diarrhoea
+Ecuador,0.0,conjunctivitis
+Ecuador,0.053739031,headache
+Ecuador,0.0,loss of taste or smell
+Ecuador,0.018220625,a rash on skin or discolouration of fingers or toes
+Ecuador,0.007223244,difficulty breathing or shortness of breath
+Ecuador,0.220672201,chest pain or pressure
+Ecuador,0.018443708,loss of speech or movement
+Chile,0.33462167,fever
+Chile,0.131735186,dry cough
+Chile,0.100463276,tiredness or fatigue
+Chile,0.095351045,aches and muscles
+Chile,0.002750645,sore throat
+Chile,0.0,diarrhoea
+Chile,0.000989928,conjunctivitis
+Chile,0.045679603,headache
+Chile,0.0,loss of taste or smell
+Chile,0.002033407,a rash on skin or discolouration of fingers or toes
+Chile,0.00045641,difficulty breathing or shortness of breath
+Chile,0.12455026,chest pain or pressure
+Chile,0.007522415,loss of speech or movement
+Brazil,0.292291922,fever
+Brazil,0.238678421,dry cough
+Brazil,0.028532504,tiredness or fatigue
+Brazil,0.018574397,aches and muscles
+Brazil,0.061739124,sore throat
+Brazil,0.011056481,diarrhoea
+Brazil,0.002290365,conjunctivitis
+Brazil,0.031910119,headache
+Brazil,0.0,loss of taste or smell
+Brazil,0.031396718,a rash on skin or discolouration of fingers or toes
+Brazil,0.004153886,difficulty breathing or shortness of breath
+Brazil,0.187255607,chest pain or pressure
+Brazil,0.015197379,loss of speech or movement
+Argentina,0.299814703,fever
+Argentina,0.190017227,dry cough
+Argentina,0.072054014,tiredness or fatigue
+Argentina,0.081089694,aches and muscles
+Argentina,0.032041422,sore throat
+Argentina,0.003613029,diarrhoea
+Argentina,0.000812729,conjunctivitis
+Argentina,0.023479072,headache
+Argentina,0.0,loss of taste or smell
+Argentina,0.0035933,a rash on skin or discolouration of fingers or toes
+Argentina,0.0,difficulty breathing or shortness of breath
+Argentina,0.138673689,chest pain or pressure
+Argentina,0.000964968,loss of speech or movement
+Venezuela,0.242980478,fever
+Venezuela,0.20489915,dry cough
+Venezuela,0.023512441,tiredness or fatigue
+Venezuela,0.023161456,aches and muscles
+Venezuela,0.046017898,sore throat
+Venezuela,0.00000438,diarrhoea
+Venezuela,0.001362483,conjunctivitis
+Venezuela,0.019149429,headache
+Venezuela,0.0,loss of taste or smell
+Venezuela,0.033638783,a rash on skin or discolouration of fingers or toes
+Venezuela,0.003535504,difficulty breathing or shortness of breath
+Venezuela,0.320776326,chest pain or pressure
+Venezuela,0.004038592,loss of speech or movement
+Philippines,0.369595335,fever
+Philippines,0.348384442,dry cough
+Philippines,0.018715068,tiredness or fatigue
+Philippines,0.009711171,aches and muscles
+Philippines,0.085991673,sore throat
+Philippines,0.0008748,diarrhoea
+Philippines,0.000236022,conjunctivitis
+Philippines,0.021010925,headache
+Philippines,0.0,loss of taste or smell
+Philippines,0.004359271,a rash on skin or discolouration of fingers or toes
+Philippines,0.001528376,difficulty breathing or shortness of breath
+Philippines,0.058453399,chest pain or pressure
+Philippines,0.004216441,loss of speech or movement
+Vatican,0.18180671,fever
+Vatican,0.185376927,dry cough
+Vatican,0.00025372,tiredness or fatigue
+Vatican,0.0,aches and muscles
+Vatican,0.062428623,sore throat
+Vatican,0.0,diarrhoea
+Vatican,0.0,conjunctivitis
+Vatican,0.0,headache
+Vatican,0.0,loss of taste or smell
+Vatican,0.001837857,a rash on skin or discolouration of fingers or toes
+Vatican,0.002139,difficulty breathing or shortness of breath
+Vatican,0.1046187,chest pain or pressure
+Vatican,0.0,loss of speech or movement
+United States,0.310505421,fever
+United States,0.264454347,dry cough
+United States,0.048766486,tiredness or fatigue
+United States,0.024115993,aches and muscles
+United States,0.062117338,sore throat
+United States,0.00527191,diarrhoea
+United States,0.0047264,conjunctivitis
+United States,0.046906475,headache
+United States,0.000328659,loss of taste or smell
+United States,0.030056833,a rash on skin or discolouration of fingers or toes
+United States,0.005756755,difficulty breathing or shortness of breath
+United States,0.183056733,chest pain or pressure
+United States,0.013936651,loss of speech or movement
+Hong Kong,0.360030789,fever
+Hong Kong,0.291066968,dry cough
+Hong Kong,0.028724523,tiredness or fatigue
+Hong Kong,0.01757332,aches and muscles
+Hong Kong,0.080868327,sore throat
+Hong Kong,0.010730064,diarrhoea
+Hong Kong,0.002120503,conjunctivitis
+Hong Kong,0.032780596,headache
+Hong Kong,0.0,loss of taste or smell
+Hong Kong,0.005574853,a rash on skin or discolouration of fingers or toes
+Hong Kong,0.006355368,difficulty breathing or shortness of breath
+Hong Kong,0.083368884,chest pain or pressure
+Hong Kong,0.003882728,loss of speech or movement
+Singapore,0.341324172,fever
+Singapore,0.272030358,dry cough
+Singapore,0.040301631,tiredness or fatigue
+Singapore,0.022290305,aches and muscles
+Singapore,0.099340977,sore throat
+Singapore,0.007982929,diarrhoea
+Singapore,0.005024826,conjunctivitis
+Singapore,0.0489131,headache
+Singapore,0.0,loss of taste or smell
+Singapore,0.009194429,a rash on skin or discolouration of fingers or toes
+Singapore,0.001076252,difficulty breathing or shortness of breath
+Singapore,0.071299043,chest pain or pressure
+Singapore,0.004298901,loss of speech or movement
+Australia,0.268966085,fever
+Australia,0.233364426,dry cough
+Australia,0.065873827,tiredness or fatigue
+Australia,0.021209886,aches and muscles
+Australia,0.117368585,sore throat
+Australia,0.020700797,diarrhoea
+Australia,0.003049162,conjunctivitis
+Australia,0.046798174,headache
+Australia,0.0,loss of taste or smell
+Australia,0.016670816,a rash on skin or discolouration of fingers or toes
+Australia,0.006274364,difficulty breathing or shortness of breath
+Australia,0.113863259,chest pain or pressure
+Australia,0.008937542,loss of speech or movement
+Italy,0.317841205,fever
+Italy,0.28820907,dry cough
+Italy,0.044908536,tiredness or fatigue
+Italy,0.023443444,aches and muscles
+Italy,0.066322651,sore throat
+Italy,0.015956693,diarrhoea
+Italy,0.00769365,conjunctivitis
+Italy,0.042846421,headache
+Italy,0.0000000215,loss of taste or smell
+Italy,0.036177671,a rash on skin or discolouration of fingers or toes
+Italy,0.00366496,difficulty breathing or shortness of breath
+Italy,0.141775328,chest pain or pressure
+Italy,0.01116035,loss of speech or movement
+Spain,0.266885392,fever
+Spain,0.224648504,dry cough
+Spain,0.031619075,tiredness or fatigue
+Spain,0.028930236,aches and muscles
+Spain,0.056527627,sore throat
+Spain,0.02148927,diarrhoea
+Spain,0.010998491,conjunctivitis
+Spain,0.048209197,headache
+Spain,0.0,loss of taste or smell
+Spain,0.05906931,a rash on skin or discolouration of fingers or toes
+Spain,0.002551065,difficulty breathing or shortness of breath
+Spain,0.164852196,chest pain or pressure
+Spain,0.007296559,loss of speech or movement
+France,0.310033584,fever
+France,0.237763487,dry cough
+France,0.04078364,tiredness or fatigue
+France,0.031426377,aches and muscles
+France,0.060681595,sore throat
+France,0.019026708,diarrhoea
+France,0.006573444,conjunctivitis
+France,0.04834854,headache
+France,0.001043575,loss of taste or smell
+France,0.048911492,a rash on skin or discolouration of fingers or toes
+France,0.004470725,difficulty breathing or shortness of breath
+France,0.17140837,chest pain or pressure
+France,0.019528463,loss of speech or movement
+China,0.343484839,fever
+China,0.304219562,dry cough
+China,0.045396326,tiredness or fatigue
+China,0.024355095,aches and muscles
+China,0.078430991,sore throat
+China,0.016324778,diarrhoea
+China,0.005310548,conjunctivitis
+China,0.045807245,headache
+China,0.0000000072,loss of taste or smell
+China,0.011876294,a rash on skin or discolouration of fingers or toes
+China,0.005151664,difficulty breathing or shortness of breath
+China,0.11049694,chest pain or pressure
+China,0.009145711,loss of speech or movement
+Canada,0.316172516,fever
+Canada,0.266117823,dry cough
+Canada,0.024990016,tiredness or fatigue
+Canada,0.013050265,aches and muscles
+Canada,0.066615618,sore throat
+Canada,0.015540496,diarrhoea
+Canada,0.001353289,conjunctivitis
+Canada,0.045431089,headache
+Canada,0.0,loss of taste or smell
+Canada,0.018594647,a rash on skin or discolouration of fingers or toes
+Canada,0.008109953,difficulty breathing or shortness of breath
+Canada,0.133708699,chest pain or pressure
+Canada,0.013392512,loss of speech or movement
+Switzerland,0.306638583,fever
+Switzerland,0.207024319,dry cough
+Switzerland,0.037406745,tiredness or fatigue
+Switzerland,0.016714265,aches and muscles
+Switzerland,0.028123529,sore throat
+Switzerland,0.009298022,diarrhoea
+Switzerland,0.007245825,conjunctivitis
+Switzerland,0.040569838,headache
+Switzerland,0.0,loss of taste or smell
+Switzerland,0.034141263,a rash on skin or discolouration of fingers or toes
+Switzerland,0.002828265,difficulty breathing or shortness of breath
+Switzerland,0.221765915,chest pain or pressure
+Switzerland,0.011320354,loss of speech or movement
+New Zealand,0.317530731,fever
+New Zealand,0.241293122,dry cough
+New Zealand,0.059064939,tiredness or fatigue
+New Zealand,0.016936618,aches and muscles
+New Zealand,0.128851497,sore throat
+New Zealand,0.005674271,diarrhoea
+New Zealand,0.00000177,conjunctivitis
+New Zealand,0.048736595,headache
+New Zealand,0.000000279,loss of taste or smell
+New Zealand,0.013802669,a rash on skin or discolouration of fingers or toes
+New Zealand,0.005651396,difficulty breathing or shortness of breath
+New Zealand,0.15478627,chest pain or pressure
+New Zealand,0.007669846,loss of speech or movement
+Austria,0.33771568,fever
+Austria,0.276196635,dry cough
+Austria,0.015150204,tiredness or fatigue
+Austria,0.010961963,aches and muscles
+Austria,0.036779556,sore throat
+Austria,0.0000064,diarrhoea
+Austria,0.0,conjunctivitis
+Austria,0.041273811,headache
+Austria,0.0,loss of taste or smell
+Austria,0.006446563,a rash on skin or discolouration of fingers or toes
+Austria,0.005231407,difficulty breathing or shortness of breath
+Austria,0.115649718,chest pain or pressure
+Austria,0.000741916,loss of speech or movement
+Slovakia,0.200572599,fever
+Slovakia,0.329454536,dry cough
+Slovakia,0.019071929,tiredness or fatigue
+Slovakia,0.010713771,aches and muscles
+Slovakia,0.008483529,sore throat
+Slovakia,0.0000874,diarrhoea
+Slovakia,0.0,conjunctivitis
+Slovakia,0.010994476,headache
+Slovakia,0.0,loss of taste or smell
+Slovakia,0.0,a rash on skin or discolouration of fingers or toes
+Slovakia,0.0,difficulty breathing or shortness of breath
+Slovakia,0.112898008,chest pain or pressure
+Slovakia,0.0000315,loss of speech or movement
+South Korea,0.369355635,fever
+South Korea,0.30217095,dry cough
+South Korea,0.034978357,tiredness or fatigue
+South Korea,0.028027273,aches and muscles
+South Korea,0.091056106,sore throat
+South Korea,0.012503851,diarrhoea
+South Korea,0.001896947,conjunctivitis
+South Korea,0.052809576,headache
+South Korea,0.00000766,loss of taste or smell
+South Korea,0.005717023,a rash on skin or discolouration of fingers or toes
+South Korea,0.003641146,difficulty breathing or shortness of breath
+South Korea,0.090096135,chest pain or pressure
+South Korea,0.00773934,loss of speech or movement
+Saudi Arabia,0.265008611,fever
+Saudi Arabia,0.21550207,dry cough
+Saudi Arabia,0.014709729,tiredness or fatigue
+Saudi Arabia,0.000231094,aches and muscles
+Saudi Arabia,0.052792909,sore throat
+Saudi Arabia,0.003902173,diarrhoea
+Saudi Arabia,0.0,conjunctivitis
+Saudi Arabia,0.034305626,headache
+Saudi Arabia,0.0,loss of taste or smell
+Saudi Arabia,0.013140015,a rash on skin or discolouration of fingers or toes
+Saudi Arabia,0.013354787,difficulty breathing or shortness of breath
+Saudi Arabia,0.231120384,chest pain or pressure
+Saudi Arabia,0.002086449,loss of speech or movement
+Russia,0.297468529,fever
+Russia,0.216860837,dry cough
+Russia,0.030960062,tiredness or fatigue
+Russia,0.018754855,aches and muscles
+Russia,0.045211515,sore throat
+Russia,0.008087348,diarrhoea
+Russia,0.002571245,conjunctivitis
+Russia,0.031455428,headache
+Russia,0.0,loss of taste or smell
+Russia,0.020346315,a rash on skin or discolouration of fingers or toes
+Russia,0.002486951,difficulty breathing or shortness of breath
+Russia,0.23688946,chest pain or pressure
+Russia,0.011984379,loss of speech or movement
+Israel,0.270918124,fever
+Israel,0.203745727,dry cough
+Israel,0.028329647,tiredness or fatigue
+Israel,0.019987247,aches and muscles
+Israel,0.04762355,sore throat
+Israel,0.004290286,diarrhoea
+Israel,0.0,conjunctivitis
+Israel,0.035233023,headache
+Israel,0.0,loss of taste or smell
+Israel,0.041140248,a rash on skin or discolouration of fingers or toes
+Israel,0.010749546,difficulty breathing or shortness of breath
+Israel,0.160766081,chest pain or pressure
+Israel,0.023370369,loss of speech or movement
+Germany,0.31158903,fever
+Germany,0.254987991,dry cough
+Germany,0.05151915,tiredness or fatigue
+Germany,0.03344547,aches and muscles
+Germany,0.064970218,sore throat
+Germany,0.017388959,diarrhoea
+Germany,0.003825716,conjunctivitis
+Germany,0.060767451,headache
+Germany,0.002521247,loss of taste or smell
+Germany,0.01979306,a rash on skin or discolouration of fingers or toes
+Germany,0.005836889,difficulty breathing or shortness of breath
+Germany,0.149215854,chest pain or pressure
+Germany,0.024138968,loss of speech or movement
+Sweden,0.248490307,fever
+Sweden,0.214012161,dry cough
+Sweden,0.116024942,tiredness or fatigue
+Sweden,0.022146895,aches and muscles
+Sweden,0.123307442,sore throat
+Sweden,0.019265757,diarrhoea
+Sweden,0.00119249,conjunctivitis
+Sweden,0.027458139,headache
+Sweden,0.0,loss of taste or smell
+Sweden,0.006031106,a rash on skin or discolouration of fingers or toes
+Sweden,0.010210602,difficulty breathing or shortness of breath
+Sweden,0.130184357,chest pain or pressure
+Sweden,0.004752726,loss of speech or movement
+Pakistan,0.371203563,fever
+Pakistan,0.303677725,dry cough
+Pakistan,0.025437404,tiredness or fatigue
+Pakistan,0.027510821,aches and muscles
+Pakistan,0.05200781,sore throat
+Pakistan,0.023247905,diarrhoea
+Pakistan,0.007122837,conjunctivitis
+Pakistan,0.030357629,headache
+Pakistan,0.001139691,loss of taste or smell
+Pakistan,0.016581755,a rash on skin or discolouration of fingers or toes
+Pakistan,0.00289892,difficulty breathing or shortness of breath
+Pakistan,0.133960459,chest pain or pressure
+Pakistan,0.004853482,loss of speech or movement
+Myanmar,0.327765229,fever
+Myanmar,0.237285479,dry cough
+Myanmar,0.023574306,tiredness or fatigue
+Myanmar,0.000558714,aches and muscles
+Myanmar,0.006054872,sore throat
+Myanmar,0.015983759,diarrhoea
+Myanmar,0.0,conjunctivitis
+Myanmar,0.016990727,headache
+Myanmar,0.0,loss of taste or smell
+Myanmar,0.007195872,a rash on skin or discolouration of fingers or toes
+Myanmar,0.0,difficulty breathing or shortness of breath
+Myanmar,0.133242266,chest pain or pressure
+Myanmar,0.000579545,loss of speech or movement
+Indonesia,0.369666067,fever
+Indonesia,0.235336777,dry cough
+Indonesia,0.016034132,tiredness or fatigue
+Indonesia,0.005867709,aches and muscles
+Indonesia,0.057328691,sore throat
+Indonesia,0.011203533,diarrhoea
+Indonesia,0.0,conjunctivitis
+Indonesia,0.035523164,headache
+Indonesia,0.0,loss of taste or smell
+Indonesia,0.020564677,a rash on skin or discolouration of fingers or toes
+Indonesia,0.000419114,difficulty breathing or shortness of breath
+Indonesia,0.086233764,chest pain or pressure
+Indonesia,0.007976218,loss of speech or movement
+Vietnam,0.357621534,fever
+Vietnam,0.279628523,dry cough
+Vietnam,0.026699459,tiredness or fatigue
+Vietnam,0.017441767,aches and muscles
+Vietnam,0.090147927,sore throat
+Vietnam,0.005526976,diarrhoea
+Vietnam,0.000230324,conjunctivitis
+Vietnam,0.044117804,headache
+Vietnam,0.0,loss of taste or smell
+Vietnam,0.005130447,a rash on skin or discolouration of fingers or toes
+Vietnam,0.001758516,difficulty breathing or shortness of breath
+Vietnam,0.09368197,chest pain or pressure
+Vietnam,0.001091675,loss of speech or movement
+Bahrain,0.279482758,fever
+Bahrain,0.206417589,dry cough
+Bahrain,0.025268889,tiredness or fatigue
+Bahrain,0.001545741,aches and muscles
+Bahrain,0.007482596,sore throat
+Bahrain,0.0,diarrhoea
+Bahrain,0.0,conjunctivitis
+Bahrain,0.030155558,headache
+Bahrain,0.0,loss of taste or smell
+Bahrain,0.0,a rash on skin or discolouration of fingers or toes
+Bahrain,0.0,difficulty breathing or shortness of breath
+Bahrain,0.060810038,chest pain or pressure
+Bahrain,0.004221446,loss of speech or movement
+Belgium,0.257303378,fever
+Belgium,0.218323625,dry cough
+Belgium,0.02863003,tiredness or fatigue
+Belgium,0.019289124,aches and muscles
+Belgium,0.057569423,sore throat
+Belgium,0.018819691,diarrhoea
+Belgium,0.019529031,conjunctivitis
+Belgium,0.043518802,headache
+Belgium,0.0,loss of taste or smell
+Belgium,0.074710639,a rash on skin or discolouration of fingers or toes
+Belgium,0.011358912,difficulty breathing or shortness of breath
+Belgium,0.159980922,chest pain or pressure
+Belgium,0.014043347,loss of speech or movement
+Norway,0.245553878,fever
+Norway,0.199052694,dry cough
+Norway,0.082045011,tiredness or fatigue
+Norway,0.023109734,aches and muscles
+Norway,0.013267675,sore throat
+Norway,0.020838133,diarrhoea
+Norway,0.0,conjunctivitis
+Norway,0.047452048,headache
+Norway,0.0,loss of taste or smell
+Norway,0.011625934,a rash on skin or discolouration of fingers or toes
+Norway,0.009224292,difficulty breathing or shortness of breath
+Norway,0.170532572,chest pain or pressure
+Norway,0.023451875,loss of speech or movement
+Iraq,0.284495375,fever
+Iraq,0.156858795,dry cough
+Iraq,0.035451507,tiredness or fatigue
+Iraq,0.0,aches and muscles
+Iraq,0.015037455,sore throat
+Iraq,0.017482255,diarrhoea
+Iraq,0.0,conjunctivitis
+Iraq,0.049288263,headache
+Iraq,0.0,loss of taste or smell
+Iraq,0.015596281,a rash on skin or discolouration of fingers or toes
+Iraq,0.001911562,difficulty breathing or shortness of breath
+Iraq,0.192509664,chest pain or pressure
+Iraq,0.000599612,loss of speech or movement
+Georgia,0.272740702,fever
+Georgia,0.224703055,dry cough
+Georgia,0.035749421,tiredness or fatigue
+Georgia,0.023144005,aches and muscles
+Georgia,0.051837715,sore throat
+Georgia,0.003184627,diarrhoea
+Georgia,0.001271494,conjunctivitis
+Georgia,0.045695686,headache
+Georgia,0.0,loss of taste or smell
+Georgia,0.019953329,a rash on skin or discolouration of fingers or toes
+Georgia,0.0,difficulty breathing or shortness of breath
+Georgia,0.161279909,chest pain or pressure
+Georgia,0.006593904,loss of speech or movement
+Mexico,0.315492399,fever
+Mexico,0.2561569,dry cough
+Mexico,0.026379111,tiredness or fatigue
+Mexico,0.011081094,aches and muscles
+Mexico,0.040529224,sore throat
+Mexico,0.000756895,diarrhoea
+Mexico,0.002976208,conjunctivitis
+Mexico,0.03181374,headache
+Mexico,0.0,loss of taste or smell
+Mexico,0.01469994,a rash on skin or discolouration of fingers or toes
+Mexico,0.001493061,difficulty breathing or shortness of breath
+Mexico,0.207516066,chest pain or pressure
+Mexico,0.014182285,loss of speech or movement
+South Africa,0.272036751,fever
+South Africa,0.248503442,dry cough
+South Africa,0.057092429,tiredness or fatigue
+South Africa,0.01099764,aches and muscles
+South Africa,0.061112728,sore throat
+South Africa,0.005639288,diarrhoea
+South Africa,0.0,conjunctivitis
+South Africa,0.044303097,headache
+South Africa,0.0,loss of taste or smell
+South Africa,0.021119238,a rash on skin or discolouration of fingers or toes
+South Africa,0.002627147,difficulty breathing or shortness of breath
+South Africa,0.118876689,chest pain or pressure
+South Africa,0.003845396,loss of speech or movement
+Colombia,0.261712887,fever
+Colombia,0.171789731,dry cough
+Colombia,0.041437064,tiredness or fatigue
+Colombia,0.001154711,aches and muscles
+Colombia,0.026313708,sore throat
+Colombia,0.006548485,diarrhoea
+Colombia,0.00545096,conjunctivitis
+Colombia,0.03667957,headache
+Colombia,0.0,loss of taste or smell
+Colombia,0.023723852,a rash on skin or discolouration of fingers or toes
+Colombia,0.021127117,difficulty breathing or shortness of breath
+Colombia,0.300199499,chest pain or pressure
+Colombia,0.026939339,loss of speech or movement
+Japan,0.343147631,fever
+Japan,0.257132073,dry cough
+Japan,0.031779748,tiredness or fatigue
+Japan,0.020034802,aches and muscles
+Japan,0.077086202,sore throat
+Japan,0.005756224,diarrhoea
+Japan,0.000726715,conjunctivitis
+Japan,0.046752895,headache
+Japan,0.0,loss of taste or smell
+Japan,0.019744866,a rash on skin or discolouration of fingers or toes
+Japan,0.00459826,difficulty breathing or shortness of breath
+Japan,0.10877221,chest pain or pressure
+Japan,0.007545297,loss of speech or movement
+Malaysia,0.356480575,fever
+Malaysia,0.266434045,dry cough
+Malaysia,0.010511717,tiredness or fatigue
+Malaysia,0.009726709,aches and muscles
+Malaysia,0.088080538,sore throat
+Malaysia,0.005796542,diarrhoea
+Malaysia,0.0,conjunctivitis
+Malaysia,0.039996666,headache
+Malaysia,0.0,loss of taste or smell
+Malaysia,0.003053574,a rash on skin or discolouration of fingers or toes
+Malaysia,0.004670484,difficulty breathing or shortness of breath
+Malaysia,0.061302402,chest pain or pressure
+Malaysia,0.000100595,loss of speech or movement
+Poland,0.269744617,fever
+Poland,0.242811854,dry cough
+Poland,0.021352543,tiredness or fatigue
+Poland,0.015902295,aches and muscles
+Poland,0.069784357,sore throat
+Poland,0.004677631,diarrhoea
+Poland,0.0,conjunctivitis
+Poland,0.009400788,headache
+Poland,0.0,loss of taste or smell
+Poland,0.035239221,a rash on skin or discolouration of fingers or toes
+Poland,0.004923876,difficulty breathing or shortness of breath
+Poland,0.171875824,chest pain or pressure
+Poland,0.000440839,loss of speech or movement
+Bahamas,0.305265888,fever
+Bahamas,0.201548165,dry cough
+Bahamas,0.013680562,tiredness or fatigue
+Bahamas,0.047767099,aches and muscles
+Bahamas,0.002844382,sore throat
+Bahamas,0.046871155,diarrhoea
+Bahamas,0.002312852,conjunctivitis
+Bahamas,0.028132758,headache
+Bahamas,0.0,loss of taste or smell
+Bahamas,0.015879887,a rash on skin or discolouration of fingers or toes
+Bahamas,0.0,difficulty breathing or shortness of breath
+Bahamas,0.10492802,chest pain or pressure
+Bahamas,0.0,loss of speech or movement
+Barbados,0.33925879,fever
+Barbados,0.15738431,dry cough
+Barbados,0.007270036,tiredness or fatigue
+Barbados,0.008481709,aches and muscles
+Barbados,0.0,sore throat
+Barbados,0.014540073,diarrhoea
+Barbados,0.0,conjunctivitis
+Barbados,0.068301488,headache
+Barbados,0.0,loss of taste or smell
+Barbados,0.004398665,a rash on skin or discolouration of fingers or toes
+Barbados,0.0,difficulty breathing or shortness of breath
+Barbados,0.082108761,chest pain or pressure
+Barbados,0.010563861,loss of speech or movement
+Greece,0.221404628,fever
+Greece,0.175483812,dry cough
+Greece,0.024439956,tiredness or fatigue
+Greece,0.05021631,aches and muscles
+Greece,0.05505355,sore throat
+Greece,0.008506143,diarrhoea
+Greece,0.0,conjunctivitis
+Greece,0.042608579,headache
+Greece,0.0,loss of taste or smell
+Greece,0.012895984,a rash on skin or discolouration of fingers or toes
+Greece,0.0,difficulty breathing or shortness of breath
+Greece,0.171681732,chest pain or pressure
+Greece,0.006940076,loss of speech or movement
+Thailand,0.37413915,fever
+Thailand,0.273737565,dry cough
+Thailand,0.018539956,tiredness or fatigue
+Thailand,0.026728886,aches and muscles
+Thailand,0.08909951,sore throat
+Thailand,0.008287322,diarrhoea
+Thailand,0.000510767,conjunctivitis
+Thailand,0.052666342,headache
+Thailand,0.0,loss of taste or smell
+Thailand,0.020144681,a rash on skin or discolouration of fingers or toes
+Thailand,0.005082061,difficulty breathing or shortness of breath
+Thailand,0.049818342,chest pain or pressure
+Thailand,0.00432234,loss of speech or movement
+Panama,0.305478865,fever
+Panama,0.229664738,dry cough
+Panama,0.06645245,tiredness or fatigue
+Panama,0.0000148,aches and muscles
+Panama,0.028424709,sore throat
+Panama,0.0,diarrhoea
+Panama,0.0,conjunctivitis
+Panama,0.030643812,headache
+Panama,0.0,loss of taste or smell
+Panama,0.0267283,a rash on skin or discolouration of fingers or toes
+Panama,0.00000445,difficulty breathing or shortness of breath
+Panama,0.061454851,chest pain or pressure
+Panama,0.020363745,loss of speech or movement
+Iran,0.341592599,fever
+Iran,0.328076908,dry cough
+Iran,0.047580791,tiredness or fatigue
+Iran,0.021445355,aches and muscles
+Iran,0.072318267,sore throat
+Iran,0.014362167,diarrhoea
+Iran,0.000815004,conjunctivitis
+Iran,0.055329969,headache
+Iran,0.00145089,loss of taste or smell
+Iran,0.008150813,a rash on skin or discolouration of fingers or toes
+Iran,0.001074993,difficulty breathing or shortness of breath
+Iran,0.097348127,chest pain or pressure
+Iran,0.010454117,loss of speech or movement
+Ireland,0.30354428,fever
+Ireland,0.310960901,dry cough
+Ireland,0.018633982,tiredness or fatigue
+Ireland,0.003577631,aches and muscles
+Ireland,0.02505519,sore throat
+Ireland,0.018368373,diarrhoea
+Ireland,0.005097525,conjunctivitis
+Ireland,0.027585272,headache
+Ireland,0.0,loss of taste or smell
+Ireland,0.016431157,a rash on skin or discolouration of fingers or toes
+Ireland,0.005224061,difficulty breathing or shortness of breath
+Ireland,0.176009448,chest pain or pressure
+Ireland,0.012589104,loss of speech or movement
+Cambodia,0.346954981,fever
+Cambodia,0.259061077,dry cough
+Cambodia,0.004814864,tiredness or fatigue
+Cambodia,0.026382657,aches and muscles
+Cambodia,0.065943937,sore throat
+Cambodia,0.01099027,diarrhoea
+Cambodia,0.0,conjunctivitis
+Cambodia,0.041078298,headache
+Cambodia,0.0,loss of taste or smell
+Cambodia,0.00368289,a rash on skin or discolouration of fingers or toes
+Cambodia,0.006962126,difficulty breathing or shortness of breath
+Cambodia,0.080092449,chest pain or pressure
+Cambodia,0.000190297,loss of speech or movement
+South Sudan,0.325792513,fever
+South Sudan,0.095550021,dry cough
+South Sudan,0.0,tiredness or fatigue
+South Sudan,0.0,aches and muscles
+South Sudan,0.0,sore throat
+South Sudan,0.005938752,diarrhoea
+South Sudan,0.0,conjunctivitis
+South Sudan,0.008994283,headache
+South Sudan,0.0,loss of taste or smell
+South Sudan,0.005136177,a rash on skin or discolouration of fingers or toes
+South Sudan,0.024640925,difficulty breathing or shortness of breath
+South Sudan,0.072408868,chest pain or pressure
+South Sudan,0.0,loss of speech or movement
+Bangladesh,0.341346638,fever
+Bangladesh,0.25050209,dry cough
+Bangladesh,0.012938793,tiredness or fatigue
+Bangladesh,0.02430048,aches and muscles
+Bangladesh,0.035932566,sore throat
+Bangladesh,0.025661005,diarrhoea
+Bangladesh,0.0,conjunctivitis
+Bangladesh,0.006678348,headache
+Bangladesh,0.0,loss of taste or smell
+Bangladesh,0.006103649,a rash on skin or discolouration of fingers or toes
+Bangladesh,0.004244131,difficulty breathing or shortness of breath
+Bangladesh,0.13613443,chest pain or pressure
+Bangladesh,0.002311716,loss of speech or movement
+Syria,0.264433708,fever
+Syria,0.206513246,dry cough
+Syria,0.025775163,tiredness or fatigue
+Syria,0.0,aches and muscles
+Syria,0.0000874,sore throat
+Syria,0.001082735,diarrhoea
+Syria,0.0,conjunctivitis
+Syria,0.02583712,headache
+Syria,0.0,loss of taste or smell
+Syria,0.035648743,a rash on skin or discolouration of fingers or toes
+Syria,0.009821866,difficulty breathing or shortness of breath
+Syria,0.199322478,chest pain or pressure
+Syria,0.000708315,loss of speech or movement
+Yemen,0.244523744,fever
+Yemen,0.115273964,dry cough
+Yemen,0.023070463,tiredness or fatigue
+Yemen,0.003045301,aches and muscles
+Yemen,0.052260934,sore throat
+Yemen,0.0,diarrhoea
+Yemen,0.0,conjunctivitis
+Yemen,0.071305764,headache
+Yemen,0.0,loss of taste or smell
+Yemen,0.054539274,a rash on skin or discolouration of fingers or toes
+Yemen,0.0,difficulty breathing or shortness of breath
+Yemen,0.126470241,chest pain or pressure
+Yemen,0.001818007,loss of speech or movement
+Taiwan,0.380964254,fever
+Taiwan,0.284925447,dry cough
+Taiwan,0.017451107,tiredness or fatigue
+Taiwan,0.017799099,aches and muscles
+Taiwan,0.089356535,sore throat
+Taiwan,0.004382562,diarrhoea
+Taiwan,0.0000223,conjunctivitis
+Taiwan,0.043512305,headache
+Taiwan,0.0,loss of taste or smell
+Taiwan,0.003359465,a rash on skin or discolouration of fingers or toes
+Taiwan,0.004226406,difficulty breathing or shortness of breath
+Taiwan,0.074148206,chest pain or pressure
+Taiwan,0.002929193,loss of speech or movement
+Jamaica,0.263080499,fever
+Jamaica,0.178588215,dry cough
+Jamaica,0.00536595,tiredness or fatigue
+Jamaica,0.036772228,aches and muscles
+Jamaica,0.041977574,sore throat
+Jamaica,0.006015623,diarrhoea
+Jamaica,0.0,conjunctivitis
+Jamaica,0.02062976,headache
+Jamaica,0.0,loss of taste or smell
+Jamaica,0.051435782,a rash on skin or discolouration of fingers or toes
+Jamaica,0.002533273,difficulty breathing or shortness of breath
+Jamaica,0.23722167,chest pain or pressure
+Jamaica,0.002533273,loss of speech or movement
+Tajikistan,0.131905377,fever
+Tajikistan,0.0,dry cough
+Tajikistan,0.0,tiredness or fatigue
+Tajikistan,0.0,aches and muscles
+Tajikistan,0.0,sore throat
+Tajikistan,0.014951866,diarrhoea
+Tajikistan,0.0,conjunctivitis
+Tajikistan,0.091231765,headache
+Tajikistan,0.0,loss of taste or smell
+Tajikistan,0.124827246,a rash on skin or discolouration of fingers or toes
+Tajikistan,0.0,difficulty breathing or shortness of breath
+Tajikistan,0.021699131,chest pain or pressure
+Tajikistan,0.0,loss of speech or movement
+Jordan,0.250106101,fever
+Jordan,0.20226908,dry cough
+Jordan,0.038801163,tiredness or fatigue
+Jordan,0.001077375,aches and muscles
+Jordan,0.084302856,sore throat
+Jordan,0.001719587,diarrhoea
+Jordan,0.0,conjunctivitis
+Jordan,0.02545913,headache
+Jordan,0.0,loss of taste or smell
+Jordan,0.023358047,a rash on skin or discolouration of fingers or toes
+Jordan,0.000564348,difficulty breathing or shortness of breath
+Jordan,0.171619551,chest pain or pressure
+Jordan,0.046876609,loss of speech or movement
+Bulgaria,0.251995664,fever
+Bulgaria,0.170633516,dry cough
+Bulgaria,0.036436037,tiredness or fatigue
+Bulgaria,0.022347696,aches and muscles
+Bulgaria,0.021620321,sore throat
+Bulgaria,0.017880891,diarrhoea
+Bulgaria,0.0,conjunctivitis
+Bulgaria,0.031066864,headache
+Bulgaria,0.0,loss of taste or smell
+Bulgaria,0.044881346,a rash on skin or discolouration of fingers or toes
+Bulgaria,0.002135314,difficulty breathing or shortness of breath
+Bulgaria,0.237738197,chest pain or pressure
+Bulgaria,0.009417999,loss of speech or movement
+Haiti,0.314140078,fever
+Haiti,0.175446637,dry cough
+Haiti,0.00397522,tiredness or fatigue
+Haiti,0.0,aches and muscles
+Haiti,0.029936315,sore throat
+Haiti,0.000000365,diarrhoea
+Haiti,0.0,conjunctivitis
+Haiti,0.052211152,headache
+Haiti,0.0,loss of taste or smell
+Haiti,0.007572544,a rash on skin or discolouration of fingers or toes
+Haiti,0.0,difficulty breathing or shortness of breath
+Haiti,0.072782815,chest pain or pressure
+Haiti,0.036242567,loss of speech or movement
+Dominica,0.079532134,fever
+Dominica,0.111833376,dry cough
+Dominica,0.039403721,tiredness or fatigue
+Dominica,0.0,aches and muscles
+Dominica,0.0,sore throat
+Dominica,0.0,diarrhoea
+Dominica,0.0,conjunctivitis
+Dominica,0.0,headache
+Dominica,0.0,loss of taste or smell
+Dominica,0.0,a rash on skin or discolouration of fingers or toes
+Dominica,0.0,difficulty breathing or shortness of breath
+Dominica,0.0,chest pain or pressure
+Dominica,0.0,loss of speech or movement
+Afghanistan,0.308408088,fever
+Afghanistan,0.187334996,dry cough
+Afghanistan,0.017372743,tiredness or fatigue
+Afghanistan,0.0,aches and muscles
+Afghanistan,0.002890334,sore throat
+Afghanistan,0.000377825,diarrhoea
+Afghanistan,0.0,conjunctivitis
+Afghanistan,0.009821072,headache
+Afghanistan,0.0,loss of taste or smell
+Afghanistan,0.024224672,a rash on skin or discolouration of fingers or toes
+Afghanistan,0.005703203,difficulty breathing or shortness of breath
+Afghanistan,0.208415788,chest pain or pressure
+Afghanistan,0.004682048,loss of speech or movement
+Zimbabwe,0.199479768,fever
+Zimbabwe,0.170015014,dry cough
+Zimbabwe,0.0231881,tiredness or fatigue
+Zimbabwe,0.0,aches and muscles
+Zimbabwe,0.000154989,sore throat
+Zimbabwe,0.002602546,diarrhoea
+Zimbabwe,0.0,conjunctivitis
+Zimbabwe,0.0000563,headache
+Zimbabwe,0.0,loss of taste or smell
+Zimbabwe,0.008980171,a rash on skin or discolouration of fingers or toes
+Zimbabwe,0.00000152,difficulty breathing or shortness of breath
+Zimbabwe,0.287829296,chest pain or pressure
+Zimbabwe,0.0,loss of speech or movement
+British Virgin Islands,0.210349669,fever
+British Virgin Islands,0.132695347,dry cough
+British Virgin Islands,0.027984345,tiredness or fatigue
+British Virgin Islands,0.012012904,aches and muscles
+British Virgin Islands,0.004805161,sore throat
+British Virgin Islands,0.0,diarrhoea
+British Virgin Islands,0.0,conjunctivitis
+British Virgin Islands,0.038782546,headache
+British Virgin Islands,0.0,loss of taste or smell
+British Virgin Islands,0.02109079,a rash on skin or discolouration of fingers or toes
+British Virgin Islands,0.004805161,difficulty breathing or shortness of breath
+British Virgin Islands,0.305778823,chest pain or pressure
+British Virgin Islands,0.010926022,loss of speech or movement
+Kuwait,0.229334925,fever
+Kuwait,0.157942014,dry cough
+Kuwait,0.005513921,tiredness or fatigue
+Kuwait,0.0,aches and muscles
+Kuwait,0.005844699,sore throat
+Kuwait,0.0,diarrhoea
+Kuwait,0.0,conjunctivitis
+Kuwait,0.024943438,headache
+Kuwait,0.0,loss of taste or smell
+Kuwait,0.0,a rash on skin or discolouration of fingers or toes
+Kuwait,0.002586893,difficulty breathing or shortness of breath
+Kuwait,0.11229565,chest pain or pressure
+Kuwait,0.0,loss of speech or movement
+Greenland,0.250946789,fever
+Greenland,0.0,dry cough
+Greenland,0.0,tiredness or fatigue
+Greenland,0.0,aches and muscles
+Greenland,0.0,sore throat
+Greenland,0.0,diarrhoea
+Greenland,0.0,conjunctivitis
+Greenland,0.0,headache
+Greenland,0.0,loss of taste or smell
+Greenland,0.039648447,a rash on skin or discolouration of fingers or toes
+Greenland,0.0,difficulty breathing or shortness of breath
+Greenland,0.00855177,chest pain or pressure
+Greenland,0.008545302,loss of speech or movement
+Guam,0.323351223,fever
+Guam,0.269572144,dry cough
+Guam,0.003363629,tiredness or fatigue
+Guam,0.010069029,aches and muscles
+Guam,0.0494501,sore throat
+Guam,0.003788508,diarrhoea
+Guam,0.0,conjunctivitis
+Guam,0.041400473,headache
+Guam,0.0,loss of taste or smell
+Guam,0.000294712,a rash on skin or discolouration of fingers or toes
+Guam,0.004398218,difficulty breathing or shortness of breath
+Guam,0.139331951,chest pain or pressure
+Guam,0.001133859,loss of speech or movement
+Vanuatu,0.191348232,fever
+Vanuatu,0.0,dry cough
+Vanuatu,0.0,tiredness or fatigue
+Vanuatu,0.0,aches and muscles
+Vanuatu,0.0,sore throat
+Vanuatu,0.0,diarrhoea
+Vanuatu,0.0,conjunctivitis
+Vanuatu,0.0,headache
+Vanuatu,0.0,loss of taste or smell
+Vanuatu,0.007441895,a rash on skin or discolouration of fingers or toes
+Vanuatu,0.0000374,difficulty breathing or shortness of breath
+Vanuatu,0.157855754,chest pain or pressure
+Vanuatu,0.02793214,loss of speech or movement
+Solomon Islands,0.361480993,fever
+Solomon Islands,0.007591835,dry cough
+Solomon Islands,0.0,tiredness or fatigue
+Solomon Islands,0.0,aches and muscles
+Solomon Islands,0.0,sore throat
+Solomon Islands,0.019399872,diarrhoea
+Solomon Islands,0.0,conjunctivitis
+Solomon Islands,0.0,headache
+Solomon Islands,0.0,loss of taste or smell
+Solomon Islands,0.024544006,a rash on skin or discolouration of fingers or toes
+Solomon Islands,0.0000662,difficulty breathing or shortness of breath
+Solomon Islands,0.10228172,chest pain or pressure
+Solomon Islands,0.023096875,loss of speech or movement
+United Arab Emirates,0.330371986,fever
+United Arab Emirates,0.254237761,dry cough
+United Arab Emirates,0.00913613,tiredness or fatigue
+United Arab Emirates,0.01325199,aches and muscles
+United Arab Emirates,0.095922956,sore throat
+United Arab Emirates,0.002776417,diarrhoea
+United Arab Emirates,0.011441667,conjunctivitis
+United Arab Emirates,0.068849264,headache
+United Arab Emirates,0.0,loss of taste or smell
+United Arab Emirates,0.0,a rash on skin or discolouration of fingers or toes
+United Arab Emirates,0.001997799,difficulty breathing or shortness of breath
+United Arab Emirates,0.058049042,chest pain or pressure
+United Arab Emirates,0.000118835,loss of speech or movement
+Chad,0.25944435,fever
+Chad,0.231650655,dry cough
+Chad,0.037540475,tiredness or fatigue
+Chad,0.0,aches and muscles
+Chad,0.000541764,sore throat
+Chad,0.005018389,diarrhoea
+Chad,0.0,conjunctivitis
+Chad,0.017239495,headache
+Chad,0.0,loss of taste or smell
+Chad,0.021104563,a rash on skin or discolouration of fingers or toes
+Chad,0.00000198,difficulty breathing or shortness of breath
+Chad,0.194495446,chest pain or pressure
+Chad,0.002193651,loss of speech or movement
+Egypt,0.293425243,fever
+Egypt,0.281078806,dry cough
+Egypt,0.008499296,tiredness or fatigue
+Egypt,0.015165473,aches and muscles
+Egypt,0.035536924,sore throat
+Egypt,0.010337406,diarrhoea
+Egypt,0.0,conjunctivitis
+Egypt,0.063077103,headache
+Egypt,0.0,loss of taste or smell
+Egypt,0.011295849,a rash on skin or discolouration of fingers or toes
+Egypt,0.00059966,difficulty breathing or shortness of breath
+Egypt,0.104258073,chest pain or pressure
+Egypt,0.022880013,loss of speech or movement
+Uruguay,0.226934085,fever
+Uruguay,0.176187589,dry cough
+Uruguay,0.0,tiredness or fatigue
+Uruguay,0.0000127,aches and muscles
+Uruguay,0.083695697,sore throat
+Uruguay,0.0,diarrhoea
+Uruguay,0.003824929,conjunctivitis
+Uruguay,0.002643175,headache
+Uruguay,0.0,loss of taste or smell
+Uruguay,0.010275895,a rash on skin or discolouration of fingers or toes
+Uruguay,0.0,difficulty breathing or shortness of breath
+Uruguay,0.111810591,chest pain or pressure
+Uruguay,0.0,loss of speech or movement
+Rwanda,0.293649297,fever
+Rwanda,0.125800676,dry cough
+Rwanda,0.011025861,tiredness or fatigue
+Rwanda,0.0,aches and muscles
+Rwanda,0.0000343,sore throat
+Rwanda,0.0,diarrhoea
+Rwanda,0.0,conjunctivitis
+Rwanda,0.010675107,headache
+Rwanda,0.0,loss of taste or smell
+Rwanda,0.00000269,a rash on skin or discolouration of fingers or toes
+Rwanda,0.012419935,difficulty breathing or shortness of breath
+Rwanda,0.237347773,chest pain or pressure
+Rwanda,0.001352016,loss of speech or movement
+Malta,0.212000211,fever
+Malta,0.152727369,dry cough
+Malta,0.000015,tiredness or fatigue
+Malta,0.002689702,aches and muscles
+Malta,0.000285497,sore throat
+Malta,0.0,diarrhoea
+Malta,0.0,conjunctivitis
+Malta,0.0000803,headache
+Malta,0.0,loss of taste or smell
+Malta,0.0,a rash on skin or discolouration of fingers or toes
+Malta,0.0,difficulty breathing or shortness of breath
+Malta,0.170663461,chest pain or pressure
+Malta,0.0,loss of speech or movement
+Puerto Rico,0.223428768,fever
+Puerto Rico,0.232179061,dry cough
+Puerto Rico,0.039408241,tiredness or fatigue
+Puerto Rico,0.025273212,aches and muscles
+Puerto Rico,0.035989798,sore throat
+Puerto Rico,0.0,diarrhoea
+Puerto Rico,0.0,conjunctivitis
+Puerto Rico,0.042928748,headache
+Puerto Rico,0.0,loss of taste or smell
+Puerto Rico,0.021686925,a rash on skin or discolouration of fingers or toes
+Puerto Rico,0.004212202,difficulty breathing or shortness of breath
+Puerto Rico,0.135308182,chest pain or pressure
+Puerto Rico,0.008815632,loss of speech or movement
+Sri Lanka,0.310679143,fever
+Sri Lanka,0.247710683,dry cough
+Sri Lanka,0.002002591,tiredness or fatigue
+Sri Lanka,0.00858915,aches and muscles
+Sri Lanka,0.07071234,sore throat
+Sri Lanka,0.010809728,diarrhoea
+Sri Lanka,0.0,conjunctivitis
+Sri Lanka,0.049938451,headache
+Sri Lanka,0.0,loss of taste or smell
+Sri Lanka,0.002563614,a rash on skin or discolouration of fingers or toes
+Sri Lanka,0.0,difficulty breathing or shortness of breath
+Sri Lanka,0.064050729,chest pain or pressure
+Sri Lanka,0.00217434,loss of speech or movement
+Kenya,0.259797044,fever
+Kenya,0.200597984,dry cough
+Kenya,0.037726111,tiredness or fatigue
+Kenya,0.00710895,aches and muscles
+Kenya,0.057886953,sore throat
+Kenya,0.02752065,diarrhoea
+Kenya,0.0,conjunctivitis
+Kenya,0.041168862,headache
+Kenya,0.0,loss of taste or smell
+Kenya,0.013800906,a rash on skin or discolouration of fingers or toes
+Kenya,0.010617502,difficulty breathing or shortness of breath
+Kenya,0.186763801,chest pain or pressure
+Kenya,0.003165084,loss of speech or movement
+Hungary,0.284350518,fever
+Hungary,0.2181814,dry cough
+Hungary,0.015850831,tiredness or fatigue
+Hungary,0.002416469,aches and muscles
+Hungary,0.004698439,sore throat
+Hungary,0.0000262,diarrhoea
+Hungary,0.0,conjunctivitis
+Hungary,0.03917899,headache
+Hungary,0.0,loss of taste or smell
+Hungary,0.0,a rash on skin or discolouration of fingers or toes
+Hungary,0.0,difficulty breathing or shortness of breath
+Hungary,0.125117527,chest pain or pressure
+Hungary,0.002487349,loss of speech or movement
+Tanzania,0.293210949,fever
+Tanzania,0.219449214,dry cough
+Tanzania,0.013622471,tiredness or fatigue
+Tanzania,0.0,aches and muscles
+Tanzania,0.0000423,sore throat
+Tanzania,0.009132465,diarrhoea
+Tanzania,0.0,conjunctivitis
+Tanzania,0.018228476,headache
+Tanzania,0.0,loss of taste or smell
+Tanzania,0.025392421,a rash on skin or discolouration of fingers or toes
+Tanzania,0.016410858,difficulty breathing or shortness of breath
+Tanzania,0.17173456,chest pain or pressure
+Tanzania,0.002007009,loss of speech or movement
+Denmark,0.232156805,fever
+Denmark,0.226691399,dry cough
+Denmark,0.057349659,tiredness or fatigue
+Denmark,0.009847522,aches and muscles
+Denmark,0.005700271,sore throat
+Denmark,0.001281047,diarrhoea
+Denmark,0.0,conjunctivitis
+Denmark,0.039579752,headache
+Denmark,0.0,loss of taste or smell
+Denmark,0.023379678,a rash on skin or discolouration of fingers or toes
+Denmark,0.010349709,difficulty breathing or shortness of breath
+Denmark,0.228919843,chest pain or pressure
+Denmark,0.01089816,loss of speech or movement
+Lebanon,0.279448629,fever
+Lebanon,0.204864624,dry cough
+Lebanon,0.019938744,tiredness or fatigue
+Lebanon,0.000395446,aches and muscles
+Lebanon,0.000484331,sore throat
+Lebanon,0.002487197,diarrhoea
+Lebanon,0.0,conjunctivitis
+Lebanon,0.002660998,headache
+Lebanon,0.0,loss of taste or smell
+Lebanon,0.05121961,a rash on skin or discolouration of fingers or toes
+Lebanon,0.0,difficulty breathing or shortness of breath
+Lebanon,0.206206721,chest pain or pressure
+Lebanon,0.001524469,loss of speech or movement
+Lithuania,0.18578283,fever
+Lithuania,0.222459289,dry cough
+Lithuania,0.002608426,tiredness or fatigue
+Lithuania,0.0,aches and muscles
+Lithuania,0.0,sore throat
+Lithuania,0.0,diarrhoea
+Lithuania,0.0,conjunctivitis
+Lithuania,0.013627788,headache
+Lithuania,0.0,loss of taste or smell
+Lithuania,0.0,a rash on skin or discolouration of fingers or toes
+Lithuania,0.0,difficulty breathing or shortness of breath
+Lithuania,0.034965751,chest pain or pressure
+Lithuania,0.002094377,loss of speech or movement
+Belarus,0.0833059,fever
+Belarus,0.167631965,dry cough
+Belarus,0.0,tiredness or fatigue
+Belarus,0.0,aches and muscles
+Belarus,0.004148955,sore throat
+Belarus,0.0,diarrhoea
+Belarus,0.0,conjunctivitis
+Belarus,0.016431829,headache
+Belarus,0.0,loss of taste or smell
+Belarus,0.0,a rash on skin or discolouration of fingers or toes
+Belarus,0.0,difficulty breathing or shortness of breath
+Belarus,0.113096736,chest pain or pressure
+Belarus,0.0,loss of speech or movement
+Netherlands,0.252924457,fever
+Netherlands,0.228431288,dry cough
+Netherlands,0.028729755,tiredness or fatigue
+Netherlands,0.048840166,aches and muscles
+Netherlands,0.047525976,sore throat
+Netherlands,0.016492414,diarrhoea
+Netherlands,0.0,conjunctivitis
+Netherlands,0.055310109,headache
+Netherlands,0.0,loss of taste or smell
+Netherlands,0.011229085,a rash on skin or discolouration of fingers or toes
+Netherlands,0.006327633,difficulty breathing or shortness of breath
+Netherlands,0.120702219,chest pain or pressure
+Netherlands,0.029640745,loss of speech or movement
+Cayman Islands,0.206246198,fever
+Cayman Islands,0.185780806,dry cough
+Cayman Islands,0.0,tiredness or fatigue
+Cayman Islands,0.100828159,aches and muscles
+Cayman Islands,0.011499155,sore throat
+Cayman Islands,0.0,diarrhoea
+Cayman Islands,0.0,conjunctivitis
+Cayman Islands,0.012260824,headache
+Cayman Islands,0.0,loss of taste or smell
+Cayman Islands,0.000974886,a rash on skin or discolouration of fingers or toes
+Cayman Islands,0.0,difficulty breathing or shortness of breath
+Cayman Islands,0.02087151,chest pain or pressure
+Cayman Islands,0.0,loss of speech or movement
+Botswana,0.176067149,fever
+Botswana,0.147694995,dry cough
+Botswana,0.014306994,tiredness or fatigue
+Botswana,0.0,aches and muscles
+Botswana,0.0000524,sore throat
+Botswana,0.0000126,diarrhoea
+Botswana,0.0,conjunctivitis
+Botswana,0.0000524,headache
+Botswana,0.0,loss of taste or smell
+Botswana,0.0,a rash on skin or discolouration of fingers or toes
+Botswana,0.0,difficulty breathing or shortness of breath
+Botswana,0.200275016,chest pain or pressure
+Botswana,0.0,loss of speech or movement
+Malawi,0.089042171,fever
+Malawi,0.047741153,dry cough
+Malawi,0.041436142,tiredness or fatigue
+Malawi,0.0,aches and muscles
+Malawi,0.041005575,sore throat
+Malawi,0.11877383,diarrhoea
+Malawi,0.0,conjunctivitis
+Malawi,0.0,headache
+Malawi,0.0,loss of taste or smell
+Malawi,0.0,a rash on skin or discolouration of fingers or toes
+Malawi,0.0,difficulty breathing or shortness of breath
+Malawi,0.198511209,chest pain or pressure
+Malawi,0.001951457,loss of speech or movement
+Senegal,0.236913235,fever
+Senegal,0.151610705,dry cough
+Senegal,0.002133297,tiredness or fatigue
+Senegal,0.0,aches and muscles
+Senegal,0.055664421,sore throat
+Senegal,0.0,diarrhoea
+Senegal,0.0,conjunctivitis
+Senegal,0.067573973,headache
+Senegal,0.0,loss of taste or smell
+Senegal,0.0,a rash on skin or discolouration of fingers or toes
+Senegal,0.0,difficulty breathing or shortness of breath
+Senegal,0.023451804,chest pain or pressure
+Senegal,0.001114102,loss of speech or movement
+Ghana,0.312564332,fever
+Ghana,0.271021515,dry cough
+Ghana,0.013305644,tiredness or fatigue
+Ghana,0.006508184,aches and muscles
+Ghana,0.023019752,sore throat
+Ghana,0.009099056,diarrhoea
+Ghana,0.0,conjunctivitis
+Ghana,0.03243839,headache
+Ghana,0.0,loss of taste or smell
+Ghana,0.000610142,a rash on skin or discolouration of fingers or toes
+Ghana,0.003091388,difficulty breathing or shortness of breath
+Ghana,0.097572366,chest pain or pressure
+Ghana,0.0,loss of speech or movement
+Mauritius,0.230921686,fever
+Mauritius,0.118040326,dry cough
+Mauritius,0.0,tiredness or fatigue
+Mauritius,0.0,aches and muscles
+Mauritius,0.007427404,sore throat
+Mauritius,0.0,diarrhoea
+Mauritius,0.0,conjunctivitis
+Mauritius,0.0,headache
+Mauritius,0.0,loss of taste or smell
+Mauritius,0.000547997,a rash on skin or discolouration of fingers or toes
+Mauritius,0.0,difficulty breathing or shortness of breath
+Mauritius,0.027677972,chest pain or pressure
+Mauritius,0.0,loss of speech or movement
+Democratic Republic of the Congo,0.35912363,fever
+Democratic Republic of the Congo,0.053562024,dry cough
+Democratic Republic of the Congo,0.0,tiredness or fatigue
+Democratic Republic of the Congo,0.00000708,aches and muscles
+Democratic Republic of the Congo,0.0,sore throat
+Democratic Republic of the Congo,0.002895736,diarrhoea
+Democratic Republic of the Congo,0.0,conjunctivitis
+Democratic Republic of the Congo,0.008586957,headache
+Democratic Republic of the Congo,0.0,loss of taste or smell
+Democratic Republic of the Congo,0.0,a rash on skin or discolouration of fingers or toes
+Democratic Republic of the Congo,0.0,difficulty breathing or shortness of breath
+Democratic Republic of the Congo,0.058530031,chest pain or pressure
+Democratic Republic of the Congo,0.055756078,loss of speech or movement
+Nepal,0.380910579,fever
+Nepal,0.291828903,dry cough
+Nepal,0.013552531,tiredness or fatigue
+Nepal,0.030359508,aches and muscles
+Nepal,0.069999642,sore throat
+Nepal,0.000609624,diarrhoea
+Nepal,0.0,conjunctivitis
+Nepal,0.024985066,headache
+Nepal,0.0,loss of taste or smell
+Nepal,0.002636956,a rash on skin or discolouration of fingers or toes
+Nepal,0.0000878,difficulty breathing or shortness of breath
+Nepal,0.031001857,chest pain or pressure
+Nepal,0.000181331,loss of speech or movement
+Finland,0.296092371,fever
+Finland,0.279056798,dry cough
+Finland,0.024008272,tiredness or fatigue
+Finland,0.022293846,aches and muscles
+Finland,0.066236149,sore throat
+Finland,0.000778936,diarrhoea
+Finland,0.0,conjunctivitis
+Finland,0.028148336,headache
+Finland,0.0,loss of taste or smell
+Finland,0.019924204,a rash on skin or discolouration of fingers or toes
+Finland,0.001492736,difficulty breathing or shortness of breath
+Finland,0.10199708,chest pain or pressure
+Finland,0.006125118,loss of speech or movement
+Nigeria,0.348586771,fever
+Nigeria,0.201511667,dry cough
+Nigeria,0.012495234,tiredness or fatigue
+Nigeria,0.016376085,aches and muscles
+Nigeria,0.044954556,sore throat
+Nigeria,0.014311851,diarrhoea
+Nigeria,0.0,conjunctivitis
+Nigeria,0.06128798,headache
+Nigeria,0.0,loss of taste or smell
+Nigeria,0.014142459,a rash on skin or discolouration of fingers or toes
+Nigeria,0.00198966,difficulty breathing or shortness of breath
+Nigeria,0.123111638,chest pain or pressure
+Nigeria,0.007385945,loss of speech or movement
+Ukraine,0.186077619,fever
+Ukraine,0.146602072,dry cough
+Ukraine,0.028497418,tiredness or fatigue
+Ukraine,0.0,aches and muscles
+Ukraine,0.032075328,sore throat
+Ukraine,0.004222185,diarrhoea
+Ukraine,0.0,conjunctivitis
+Ukraine,0.035494088,headache
+Ukraine,0.0,loss of taste or smell
+Ukraine,0.013167285,a rash on skin or discolouration of fingers or toes
+Ukraine,0.0,difficulty breathing or shortness of breath
+Ukraine,0.242867904,chest pain or pressure
+Ukraine,0.003303793,loss of speech or movement
+Laos,0.212101884,fever
+Laos,0.293544435,dry cough
+Laos,0.008669928,tiredness or fatigue
+Laos,0.065832602,aches and muscles
+Laos,0.000907577,sore throat
+Laos,0.000256703,diarrhoea
+Laos,0.0,conjunctivitis
+Laos,0.0662705,headache
+Laos,0.0,loss of taste or smell
+Laos,0.0,a rash on skin or discolouration of fingers or toes
+Laos,0.0,difficulty breathing or shortness of breath
+Laos,0.044468449,chest pain or pressure
+Laos,0.000255614,loss of speech or movement
+Brunei,0.118176339,fever
+Brunei,0.086274275,dry cough
+Brunei,0.0,tiredness or fatigue
+Brunei,0.0,aches and muscles
+Brunei,0.083092645,sore throat
+Brunei,0.0,diarrhoea
+Brunei,0.0,conjunctivitis
+Brunei,0.0,headache
+Brunei,0.0,loss of taste or smell
+Brunei,0.0,a rash on skin or discolouration of fingers or toes
+Brunei,0.0,difficulty breathing or shortness of breath
+Brunei,0.020149049,chest pain or pressure
+Brunei,0.0,loss of speech or movement
+Maldives,0.31801392,fever
+Maldives,0.195654317,dry cough
+Maldives,0.011325157,tiredness or fatigue
+Maldives,0.0,aches and muscles
+Maldives,0.009902178,sore throat
+Maldives,0.001568532,diarrhoea
+Maldives,0.0,conjunctivitis
+Maldives,0.0000066,headache
+Maldives,0.0,loss of taste or smell
+Maldives,0.011748584,a rash on skin or discolouration of fingers or toes
+Maldives,0.0,difficulty breathing or shortness of breath
+Maldives,0.125625342,chest pain or pressure
+Maldives,0.018463061,loss of speech or movement
+Bhutan,0.294572736,fever
+Bhutan,0.210798336,dry cough
+Bhutan,0.019259598,tiredness or fatigue
+Bhutan,0.0,aches and muscles
+Bhutan,0.046978976,sore throat
+Bhutan,0.0,diarrhoea
+Bhutan,0.0,conjunctivitis
+Bhutan,0.022224709,headache
+Bhutan,0.0,loss of taste or smell
+Bhutan,0.002170475,a rash on skin or discolouration of fingers or toes
+Bhutan,0.011459615,difficulty breathing or shortness of breath
+Bhutan,0.083772619,chest pain or pressure
+Bhutan,0.001070629,loss of speech or movement
+Cameroon,0.263995759,fever
+Cameroon,0.158151369,dry cough
+Cameroon,0.003112714,tiredness or fatigue
+Cameroon,0.00296526,aches and muscles
+Cameroon,0.065278427,sore throat
+Cameroon,0.0,diarrhoea
+Cameroon,0.0,conjunctivitis
+Cameroon,0.073069701,headache
+Cameroon,0.0,loss of taste or smell
+Cameroon,0.00095855,a rash on skin or discolouration of fingers or toes
+Cameroon,0.0,difficulty breathing or shortness of breath
+Cameroon,0.123817362,chest pain or pressure
+Cameroon,0.00095855,loss of speech or movement
+Ethiopia,0.346141959,fever
+Ethiopia,0.164424914,dry cough
+Ethiopia,0.01337137,tiredness or fatigue
+Ethiopia,0.0,aches and muscles
+Ethiopia,0.005729708,sore throat
+Ethiopia,0.010853543,diarrhoea
+Ethiopia,0.0,conjunctivitis
+Ethiopia,0.015372977,headache
+Ethiopia,0.0,loss of taste or smell
+Ethiopia,0.009460456,a rash on skin or discolouration of fingers or toes
+Ethiopia,0.010393901,difficulty breathing or shortness of breath
+Ethiopia,0.190300417,chest pain or pressure
+Ethiopia,0.003181524,loss of speech or movement
+Fiji,0.434552694,fever
+Fiji,0.299381706,dry cough
+Fiji,0.016157401,tiredness or fatigue
+Fiji,0.0000437,aches and muscles
+Fiji,0.04880031,sore throat
+Fiji,0.000537392,diarrhoea
+Fiji,0.0,conjunctivitis
+Fiji,0.018245614,headache
+Fiji,0.0,loss of taste or smell
+Fiji,0.0000109,a rash on skin or discolouration of fingers or toes
+Fiji,0.0000108,difficulty breathing or shortness of breath
+Fiji,0.006581308,chest pain or pressure
+Fiji,0.021831935,loss of speech or movement
+Peru,0.319429102,fever
+Peru,0.222708062,dry cough
+Peru,0.052673574,tiredness or fatigue
+Peru,0.017331688,aches and muscles
+Peru,0.051701215,sore throat
+Peru,0.007589342,diarrhoea
+Peru,0.002139519,conjunctivitis
+Peru,0.017135509,headache
+Peru,0.0,loss of taste or smell
+Peru,0.007077445,a rash on skin or discolouration of fingers or toes
+Peru,0.006655791,difficulty breathing or shortness of breath
+Peru,0.199098948,chest pain or pressure
+Peru,0.019536729,loss of speech or movement
+Qatar,0.243122265,fever
+Qatar,0.19421572,dry cough
+Qatar,0.005844801,tiredness or fatigue
+Qatar,0.0,aches and muscles
+Qatar,0.045283491,sore throat
+Qatar,0.0,diarrhoea
+Qatar,0.0,conjunctivitis
+Qatar,0.029952086,headache
+Qatar,0.0,loss of taste or smell
+Qatar,0.000921898,a rash on skin or discolouration of fingers or toes
+Qatar,0.0,difficulty breathing or shortness of breath
+Qatar,0.09348987,chest pain or pressure
+Qatar,0.002554486,loss of speech or movement
+Uganda,0.294111072,fever
+Uganda,0.232823822,dry cough
+Uganda,0.016933206,tiredness or fatigue
+Uganda,0.00173965,aches and muscles
+Uganda,0.01091544,sore throat
+Uganda,0.012724762,diarrhoea
+Uganda,0.0,conjunctivitis
+Uganda,0.052058941,headache
+Uganda,0.0,loss of taste or smell
+Uganda,0.01125695,a rash on skin or discolouration of fingers or toes
+Uganda,0.016941196,difficulty breathing or shortness of breath
+Uganda,0.195910281,chest pain or pressure
+Uganda,0.000738526,loss of speech or movement
+Ivory Coast,0.238064413,fever
+Ivory Coast,0.222251919,dry cough
+Ivory Coast,0.00356261,tiredness or fatigue
+Ivory Coast,0.0,aches and muscles
+Ivory Coast,0.042833419,sore throat
+Ivory Coast,0.00356261,diarrhoea
+Ivory Coast,0.0,conjunctivitis
+Ivory Coast,0.007972095,headache
+Ivory Coast,0.0,loss of taste or smell
+Ivory Coast,0.0,a rash on skin or discolouration of fingers or toes
+Ivory Coast,0.0,difficulty breathing or shortness of breath
+Ivory Coast,0.020214472,chest pain or pressure
+Ivory Coast,0.0,loss of speech or movement
+Turkey,0.340895998,fever
+Turkey,0.228697906,dry cough
+Turkey,0.027286015,tiredness or fatigue
+Turkey,0.00890695,aches and muscles
+Turkey,0.020666721,sore throat
+Turkey,0.012050577,diarrhoea
+Turkey,0.0,conjunctivitis
+Turkey,0.017731357,headache
+Turkey,0.0,loss of taste or smell
+Turkey,0.00467623,a rash on skin or discolouration of fingers or toes
+Turkey,0.002864574,difficulty breathing or shortness of breath
+Turkey,0.174870649,chest pain or pressure
+Turkey,0.007506868,loss of speech or movement
+Isle of Man,0.120888593,fever
+Isle of Man,0.118917214,dry cough
+Isle of Man,0.0,tiredness or fatigue
+Isle of Man,0.0,aches and muscles
+Isle of Man,0.0,sore throat
+Isle of Man,0.008849623,diarrhoea
+Isle of Man,0.0,conjunctivitis
+Isle of Man,0.0,headache
+Isle of Man,0.0,loss of taste or smell
+Isle of Man,0.085974418,a rash on skin or discolouration of fingers or toes
+Isle of Man,0.0,difficulty breathing or shortness of breath
+Isle of Man,0.118043471,chest pain or pressure
+Isle of Man,0.008865142,loss of speech or movement
+Romania,0.213079008,fever
+Romania,0.223912701,dry cough
+Romania,0.008493893,tiredness or fatigue
+Romania,0.0000239,aches and muscles
+Romania,0.051203708,sore throat
+Romania,0.0,diarrhoea
+Romania,0.0,conjunctivitis
+Romania,0.01328177,headache
+Romania,0.0,loss of taste or smell
+Romania,0.020069271,a rash on skin or discolouration of fingers or toes
+Romania,0.0,difficulty breathing or shortness of breath
+Romania,0.085320386,chest pain or pressure
+Romania,0.0,loss of speech or movement
+Libya,0.306196012,fever
+Libya,0.111467322,dry cough
+Libya,0.012564752,tiredness or fatigue
+Libya,0.0,aches and muscles
+Libya,0.035501358,sore throat
+Libya,0.004295141,diarrhoea
+Libya,0.0,conjunctivitis
+Libya,0.011524963,headache
+Libya,0.0,loss of taste or smell
+Libya,0.004243239,a rash on skin or discolouration of fingers or toes
+Libya,0.016400067,difficulty breathing or shortness of breath
+Libya,0.262794676,chest pain or pressure
+Libya,0.004243239,loss of speech or movement
+Niger,0.299134908,fever
+Niger,0.04540232,dry cough
+Niger,0.0,tiredness or fatigue
+Niger,0.0,aches and muscles
+Niger,0.0,sore throat
+Niger,0.004051439,diarrhoea
+Niger,0.0,conjunctivitis
+Niger,0.0,headache
+Niger,0.0,loss of taste or smell
+Niger,0.00000311,a rash on skin or discolouration of fingers or toes
+Niger,0.0,difficulty breathing or shortness of breath
+Niger,0.083132961,chest pain or pressure
+Niger,0.029813721,loss of speech or movement
+Aruba,0.069350013,fever
+Aruba,0.126039762,dry cough
+Aruba,0.0,tiredness or fatigue
+Aruba,0.036716201,aches and muscles
+Aruba,0.0,sore throat
+Aruba,0.0,diarrhoea
+Aruba,0.0,conjunctivitis
+Aruba,0.0,headache
+Aruba,0.0,loss of taste or smell
+Aruba,0.0,a rash on skin or discolouration of fingers or toes
+Aruba,0.0,difficulty breathing or shortness of breath
+Aruba,0.075586331,chest pain or pressure
+Aruba,0.0,loss of speech or movement
+Portugal,0.270287267,fever
+Portugal,0.253023712,dry cough
+Portugal,0.041085284,tiredness or fatigue
+Portugal,0.001414809,aches and muscles
+Portugal,0.029684938,sore throat
+Portugal,0.021811845,diarrhoea
+Portugal,0.0,conjunctivitis
+Portugal,0.013283857,headache
+Portugal,0.0,loss of taste or smell
+Portugal,0.026145482,a rash on skin or discolouration of fingers or toes
+Portugal,0.004897724,difficulty breathing or shortness of breath
+Portugal,0.171084082,chest pain or pressure
+Portugal,0.013434845,loss of speech or movement
+Benin,0.245112263,fever
+Benin,0.205546364,dry cough
+Benin,0.010070099,tiredness or fatigue
+Benin,0.0,aches and muscles
+Benin,0.010070099,sore throat
+Benin,0.013632162,diarrhoea
+Benin,0.0,conjunctivitis
+Benin,0.005601629,headache
+Benin,0.0,loss of taste or smell
+Benin,0.0,a rash on skin or discolouration of fingers or toes
+Benin,0.0,difficulty breathing or shortness of breath
+Benin,0.123521177,chest pain or pressure
+Benin,0.001830822,loss of speech or movement
+Papua New Guinea,0.392829918,fever
+Papua New Guinea,0.129020691,dry cough
+Papua New Guinea,0.034148241,tiredness or fatigue
+Papua New Guinea,0.0,aches and muscles
+Papua New Guinea,0.013381589,sore throat
+Papua New Guinea,0.0,diarrhoea
+Papua New Guinea,0.0,conjunctivitis
+Papua New Guinea,0.017242691,headache
+Papua New Guinea,0.0,loss of taste or smell
+Papua New Guinea,0.073808705,a rash on skin or discolouration of fingers or toes
+Papua New Guinea,0.000015,difficulty breathing or shortness of breath
+Papua New Guinea,0.031859202,chest pain or pressure
+Papua New Guinea,0.00000168,loss of speech or movement
+New Caledonia,0.148314391,fever
+New Caledonia,0.149072992,dry cough
+New Caledonia,0.0,tiredness or fatigue
+New Caledonia,0.0,aches and muscles
+New Caledonia,0.0,sore throat
+New Caledonia,0.0,diarrhoea
+New Caledonia,0.0,conjunctivitis
+New Caledonia,0.0,headache
+New Caledonia,0.0,loss of taste or smell
+New Caledonia,0.0000569,a rash on skin or discolouration of fingers or toes
+New Caledonia,0.0,difficulty breathing or shortness of breath
+New Caledonia,0.010248038,chest pain or pressure
+New Caledonia,0.0,loss of speech or movement
+Tuvalu,0.270071157,fever
+Tuvalu,0.06532417,dry cough
+Tuvalu,0.0,tiredness or fatigue
+Tuvalu,0.0,aches and muscles
+Tuvalu,0.0,sore throat
+Tuvalu,0.0,diarrhoea
+Tuvalu,0.0,conjunctivitis
+Tuvalu,0.0,headache
+Tuvalu,0.0,loss of taste or smell
+Tuvalu,0.016406686,a rash on skin or discolouration of fingers or toes
+Tuvalu,0.0,difficulty breathing or shortness of breath
+Tuvalu,0.016406686,chest pain or pressure
+Tuvalu,0.016406686,loss of speech or movement
+Marshall Islands,0.336682858,fever
+Marshall Islands,0.0,dry cough
+Marshall Islands,0.0,tiredness or fatigue
+Marshall Islands,0.0,aches and muscles
+Marshall Islands,0.00023829,sore throat
+Marshall Islands,0.022456415,diarrhoea
+Marshall Islands,0.0,conjunctivitis
+Marshall Islands,0.014494364,headache
+Marshall Islands,0.0,loss of taste or smell
+Marshall Islands,0.0,a rash on skin or discolouration of fingers or toes
+Marshall Islands,0.0,difficulty breathing or shortness of breath
+Marshall Islands,0.010743458,chest pain or pressure
+Marshall Islands,0.0,loss of speech or movement
+Comoros,0.209258347,fever
+Comoros,0.047474958,dry cough
+Comoros,0.0,tiredness or fatigue
+Comoros,0.0,aches and muscles
+Comoros,0.0,sore throat
+Comoros,0.0,diarrhoea
+Comoros,0.0,conjunctivitis
+Comoros,0.024959122,headache
+Comoros,0.0,loss of taste or smell
+Comoros,0.0,a rash on skin or discolouration of fingers or toes
+Comoros,0.0,difficulty breathing or shortness of breath
+Comoros,0.02599988,chest pain or pressure
+Comoros,0.0,loss of speech or movement
+Tonga,0.173289258,fever
+Tonga,0.274494038,dry cough
+Tonga,0.031109788,tiredness or fatigue
+Tonga,0.0,aches and muscles
+Tonga,0.0,sore throat
+Tonga,0.0,diarrhoea
+Tonga,0.0,conjunctivitis
+Tonga,0.0000366,headache
+Tonga,0.0,loss of taste or smell
+Tonga,0.008966655,a rash on skin or discolouration of fingers or toes
+Tonga,0.0000305,difficulty breathing or shortness of breath
+Tonga,0.071968221,chest pain or pressure
+Tonga,0.055489596,loss of speech or movement
+Samoa,0.571652165,fever
+Samoa,0.075837724,dry cough
+Samoa,0.000118404,tiredness or fatigue
+Samoa,0.0,aches and muscles
+Samoa,0.014853404,sore throat
+Samoa,0.000445125,diarrhoea
+Samoa,0.0,conjunctivitis
+Samoa,0.032013466,headache
+Samoa,0.0,loss of taste or smell
+Samoa,0.010026156,a rash on skin or discolouration of fingers or toes
+Samoa,0.0000493,difficulty breathing or shortness of breath
+Samoa,0.054458592,chest pain or pressure
+Samoa,0.009776398,loss of speech or movement
+Micronesia,0.244469237,fever
+Micronesia,0.0,dry cough
+Micronesia,0.0,tiredness or fatigue
+Micronesia,0.0,aches and muscles
+Micronesia,0.00015061,sore throat
+Micronesia,0.0,diarrhoea
+Micronesia,0.0,conjunctivitis
+Micronesia,0.0,headache
+Micronesia,0.0,loss of taste or smell
+Micronesia,0.0,a rash on skin or discolouration of fingers or toes
+Micronesia,0.0,difficulty breathing or shortness of breath
+Micronesia,0.036372318,chest pain or pressure
+Micronesia,0.026700143,loss of speech or movement
+Palau,0.234996875,fever
+Palau,0.176518521,dry cough
+Palau,0.034728825,tiredness or fatigue
+Palau,0.0,aches and muscles
+Palau,0.0,sore throat
+Palau,0.0,diarrhoea
+Palau,0.0,conjunctivitis
+Palau,0.0,headache
+Palau,0.0,loss of taste or smell
+Palau,0.004493407,a rash on skin or discolouration of fingers or toes
+Palau,0.0,difficulty breathing or shortness of breath
+Palau,0.006307426,chest pain or pressure
+Palau,0.004493407,loss of speech or movement
+Kiribati,0.211083494,fever
+Kiribati,0.0,dry cough
+Kiribati,0.0,tiredness or fatigue
+Kiribati,0.0,aches and muscles
+Kiribati,0.0,sore throat
+Kiribati,0.003988637,diarrhoea
+Kiribati,0.0,conjunctivitis
+Kiribati,0.0,headache
+Kiribati,0.0,loss of taste or smell
+Kiribati,0.092532898,a rash on skin or discolouration of fingers or toes
+Kiribati,0.0000873,difficulty breathing or shortness of breath
+Kiribati,0.0,chest pain or pressure
+Kiribati,0.0,loss of speech or movement
+French Polynesia,0.102272034,fever
+French Polynesia,0.122991518,dry cough
+French Polynesia,0.0,tiredness or fatigue
+French Polynesia,0.0,aches and muscles
+French Polynesia,0.0,sore throat
+French Polynesia,0.0,diarrhoea
+French Polynesia,0.0,conjunctivitis
+French Polynesia,0.0,headache
+French Polynesia,0.0,loss of taste or smell
+French Polynesia,0.005505678,a rash on skin or discolouration of fingers or toes
+French Polynesia,0.0,difficulty breathing or shortness of breath
+French Polynesia,0.0,chest pain or pressure
+French Polynesia,0.0,loss of speech or movement
+Nauru,0.201865055,fever
+Nauru,0.10975017,dry cough
+Nauru,0.0,tiredness or fatigue
+Nauru,0.0,aches and muscles
+Nauru,0.047132737,sore throat
+Nauru,0.001851441,diarrhoea
+Nauru,0.0,conjunctivitis
+Nauru,0.029256814,headache
+Nauru,0.0,loss of taste or smell
+Nauru,0.008028188,a rash on skin or discolouration of fingers or toes
+Nauru,0.0,difficulty breathing or shortness of breath
+Nauru,0.209472022,chest pain or pressure
+Nauru,0.008028188,loss of speech or movement
+Cook Islands,0.08710331,fever
+Cook Islands,0.014189001,dry cough
+Cook Islands,0.05411827,tiredness or fatigue
+Cook Islands,0.0,aches and muscles
+Cook Islands,0.0,sore throat
+Cook Islands,0.0,diarrhoea
+Cook Islands,0.0,conjunctivitis
+Cook Islands,0.0,headache
+Cook Islands,0.0,loss of taste or smell
+Cook Islands,0.0,a rash on skin or discolouration of fingers or toes
+Cook Islands,0.0,difficulty breathing or shortness of breath
+Cook Islands,0.152281727,chest pain or pressure
+Cook Islands,0.0,loss of speech or movement
+Slovenia,0.255403335,fever
+Slovenia,0.130843212,dry cough
+Slovenia,0.00000146,tiredness or fatigue
+Slovenia,0.0,aches and muscles
+Slovenia,0.00000146,sore throat
+Slovenia,0.0,diarrhoea
+Slovenia,0.0,conjunctivitis
+Slovenia,0.0,headache
+Slovenia,0.0,loss of taste or smell
+Slovenia,0.001456315,a rash on skin or discolouration of fingers or toes
+Slovenia,0.0,difficulty breathing or shortness of breath
+Slovenia,0.073832675,chest pain or pressure
+Slovenia,0.0,loss of speech or movement
+Cuba,0.326287705,fever
+Cuba,0.165294035,dry cough
+Cuba,0.003904443,tiredness or fatigue
+Cuba,0.002717684,aches and muscles
+Cuba,0.004160061,sore throat
+Cuba,0.000798515,diarrhoea
+Cuba,0.002423719,conjunctivitis
+Cuba,0.015046315,headache
+Cuba,0.0,loss of taste or smell
+Cuba,0.050194088,a rash on skin or discolouration of fingers or toes
+Cuba,0.032177896,difficulty breathing or shortness of breath
+Cuba,0.241953012,chest pain or pressure
+Cuba,0.078119452,loss of speech or movement
+Monaco,0.203917328,fever
+Monaco,0.199422919,dry cough
+Monaco,0.034707368,tiredness or fatigue
+Monaco,0.0,aches and muscles
+Monaco,0.042755059,sore throat
+Monaco,0.004581412,diarrhoea
+Monaco,0.0,conjunctivitis
+Monaco,0.078966375,headache
+Monaco,0.0,loss of taste or smell
+Monaco,0.011371594,a rash on skin or discolouration of fingers or toes
+Monaco,0.0,difficulty breathing or shortness of breath
+Monaco,0.039662561,chest pain or pressure
+Monaco,0.0,loss of speech or movement
+Algeria,0.266564303,fever
+Algeria,0.186004216,dry cough
+Algeria,0.00000933,tiredness or fatigue
+Algeria,0.004264414,aches and muscles
+Algeria,0.047675417,sore throat
+Algeria,0.000250473,diarrhoea
+Algeria,0.0,conjunctivitis
+Algeria,0.051880304,headache
+Algeria,0.0,loss of taste or smell
+Algeria,0.000186842,a rash on skin or discolouration of fingers or toes
+Algeria,0.0,difficulty breathing or shortness of breath
+Algeria,0.135472391,chest pain or pressure
+Algeria,0.0,loss of speech or movement
+Tunisia,0.164697704,fever
+Tunisia,0.091262857,dry cough
+Tunisia,0.015049172,tiredness or fatigue
+Tunisia,0.0,aches and muscles
+Tunisia,0.069040301,sore throat
+Tunisia,0.0,diarrhoea
+Tunisia,0.0,conjunctivitis
+Tunisia,0.084956208,headache
+Tunisia,0.0,loss of taste or smell
+Tunisia,0.0,a rash on skin or discolouration of fingers or toes
+Tunisia,0.0,difficulty breathing or shortness of breath
+Tunisia,0.113454609,chest pain or pressure
+Tunisia,0.000000687,loss of speech or movement
+Togo,0.41369474,fever
+Togo,0.176833089,dry cough
+Togo,0.018055511,tiredness or fatigue
+Togo,0.013367538,aches and muscles
+Togo,0.018055511,sore throat
+Togo,0.018055511,diarrhoea
+Togo,0.0,conjunctivitis
+Togo,0.00521666,headache
+Togo,0.0,loss of taste or smell
+Togo,0.0,a rash on skin or discolouration of fingers or toes
+Togo,0.0,difficulty breathing or shortness of breath
+Togo,0.013402025,chest pain or pressure
+Togo,0.015627107,loss of speech or movement
+Morocco,0.237840518,fever
+Morocco,0.197483191,dry cough
+Morocco,0.031171966,tiredness or fatigue
+Morocco,0.0,aches and muscles
+Morocco,0.043960475,sore throat
+Morocco,0.001045614,diarrhoea
+Morocco,0.0,conjunctivitis
+Morocco,0.045409068,headache
+Morocco,0.0,loss of taste or smell
+Morocco,0.000133235,a rash on skin or discolouration of fingers or toes
+Morocco,0.0,difficulty breathing or shortness of breath
+Morocco,0.135124365,chest pain or pressure
+Morocco,0.00013926,loss of speech or movement
+Bolivia,0.234290724,fever
+Bolivia,0.114896961,dry cough
+Bolivia,0.020750397,tiredness or fatigue
+Bolivia,0.096613758,aches and muscles
+Bolivia,0.0000531,sore throat
+Bolivia,0.0,diarrhoea
+Bolivia,0.0,conjunctivitis
+Bolivia,0.0,headache
+Bolivia,0.0,loss of taste or smell
+Bolivia,0.0,a rash on skin or discolouration of fingers or toes
+Bolivia,0.026054528,difficulty breathing or shortness of breath
+Bolivia,0.11984691,chest pain or pressure
+Bolivia,0.002878269,loss of speech or movement
+Serbia,0.231057422,fever
+Serbia,0.181562723,dry cough
+Serbia,0.009964043,tiredness or fatigue
+Serbia,0.057017971,aches and muscles
+Serbia,0.077426331,sore throat
+Serbia,0.023969116,diarrhoea
+Serbia,0.0,conjunctivitis
+Serbia,0.002962595,headache
+Serbia,0.0,loss of taste or smell
+Serbia,0.0,a rash on skin or discolouration of fingers or toes
+Serbia,0.0,difficulty breathing or shortness of breath
+Serbia,0.031424415,chest pain or pressure
+Serbia,0.0,loss of speech or movement
+Mali,0.262963428,fever
+Mali,0.097870073,dry cough
+Mali,0.0,tiredness or fatigue
+Mali,0.0,aches and muscles
+Mali,0.0,sore throat
+Mali,0.005933796,diarrhoea
+Mali,0.0,conjunctivitis
+Mali,0.0,headache
+Mali,0.0,loss of taste or smell
+Mali,0.00000189,a rash on skin or discolouration of fingers or toes
+Mali,0.0,difficulty breathing or shortness of breath
+Mali,0.093506549,chest pain or pressure
+Mali,0.00126273,loss of speech or movement
+Burkina Faso,0.297466384,fever
+Burkina Faso,0.133299057,dry cough
+Burkina Faso,0.002557994,tiredness or fatigue
+Burkina Faso,0.0,aches and muscles
+Burkina Faso,0.0,sore throat
+Burkina Faso,0.000868912,diarrhoea
+Burkina Faso,0.0,conjunctivitis
+Burkina Faso,0.011235616,headache
+Burkina Faso,0.0,loss of taste or smell
+Burkina Faso,0.0,a rash on skin or discolouration of fingers or toes
+Burkina Faso,0.0,difficulty breathing or shortness of breath
+Burkina Faso,0.091539657,chest pain or pressure
+Burkina Faso,0.001493918,loss of speech or movement
+Iceland,0.20989666,fever
+Iceland,0.236109608,dry cough
+Iceland,0.036809495,tiredness or fatigue
+Iceland,0.033397202,aches and muscles
+Iceland,0.052616596,sore throat
+Iceland,0.01364733,diarrhoea
+Iceland,0.0,conjunctivitis
+Iceland,0.047781303,headache
+Iceland,0.0,loss of taste or smell
+Iceland,0.01991055,a rash on skin or discolouration of fingers or toes
+Iceland,0.0,difficulty breathing or shortness of breath
+Iceland,0.11564543,chest pain or pressure
+Iceland,0.003416596,loss of speech or movement
+El Salvador,0.222654045,fever
+El Salvador,0.213162504,dry cough
+El Salvador,0.013688891,tiredness or fatigue
+El Salvador,0.006563556,aches and muscles
+El Salvador,0.045047893,sore throat
+El Salvador,0.003930792,diarrhoea
+El Salvador,0.0,conjunctivitis
+El Salvador,0.028804344,headache
+El Salvador,0.0,loss of taste or smell
+El Salvador,0.03223842,a rash on skin or discolouration of fingers or toes
+El Salvador,0.0,difficulty breathing or shortness of breath
+El Salvador,0.192696696,chest pain or pressure
+El Salvador,0.010443628,loss of speech or movement
+Turkmenistan,0.108672577,fever
+Turkmenistan,0.000064,dry cough
+Turkmenistan,0.0,tiredness or fatigue
+Turkmenistan,0.0,aches and muscles
+Turkmenistan,0.0,sore throat
+Turkmenistan,0.0,diarrhoea
+Turkmenistan,0.0,conjunctivitis
+Turkmenistan,0.0,headache
+Turkmenistan,0.0,loss of taste or smell
+Turkmenistan,0.115918105,a rash on skin or discolouration of fingers or toes
+Turkmenistan,0.0,difficulty breathing or shortness of breath
+Turkmenistan,0.083037627,chest pain or pressure
+Turkmenistan,0.0,loss of speech or movement
+Armenia,0.255790016,fever
+Armenia,0.111218156,dry cough
+Armenia,0.058674803,tiredness or fatigue
+Armenia,0.0,aches and muscles
+Armenia,0.050288819,sore throat
+Armenia,0.048203226,diarrhoea
+Armenia,0.0,conjunctivitis
+Armenia,0.003814941,headache
+Armenia,0.0,loss of taste or smell
+Armenia,0.0,a rash on skin or discolouration of fingers or toes
+Armenia,0.0,difficulty breathing or shortness of breath
+Armenia,0.010471577,chest pain or pressure
+Armenia,0.0,loss of speech or movement
+Uzbekistan,0.080905617,fever
+Uzbekistan,0.117207519,dry cough
+Uzbekistan,0.0,tiredness or fatigue
+Uzbekistan,0.04967201,aches and muscles
+Uzbekistan,0.102156838,sore throat
+Uzbekistan,0.0000849,diarrhoea
+Uzbekistan,0.0,conjunctivitis
+Uzbekistan,0.0,headache
+Uzbekistan,0.0,loss of taste or smell
+Uzbekistan,0.0,a rash on skin or discolouration of fingers or toes
+Uzbekistan,0.05294363,difficulty breathing or shortness of breath
+Uzbekistan,0.135490988,chest pain or pressure
+Uzbekistan,0.0,loss of speech or movement
+Kyrgyzstan,0.053770518,fever
+Kyrgyzstan,0.049524605,dry cough
+Kyrgyzstan,0.006587427,tiredness or fatigue
+Kyrgyzstan,0.0,aches and muscles
+Kyrgyzstan,0.0,sore throat
+Kyrgyzstan,0.0,diarrhoea
+Kyrgyzstan,0.0,conjunctivitis
+Kyrgyzstan,0.041319058,headache
+Kyrgyzstan,0.0,loss of taste or smell
+Kyrgyzstan,0.0,a rash on skin or discolouration of fingers or toes
+Kyrgyzstan,0.043776214,difficulty breathing or shortness of breath
+Kyrgyzstan,0.26656064,chest pain or pressure
+Kyrgyzstan,0.0,loss of speech or movement
+Kazakhstan,0.361220544,fever
+Kazakhstan,0.238148501,dry cough
+Kazakhstan,0.002328736,tiredness or fatigue
+Kazakhstan,0.0,aches and muscles
+Kazakhstan,0.002908174,sore throat
+Kazakhstan,0.0,diarrhoea
+Kazakhstan,0.0,conjunctivitis
+Kazakhstan,0.0162534,headache
+Kazakhstan,0.0,loss of taste or smell
+Kazakhstan,0.003953462,a rash on skin or discolouration of fingers or toes
+Kazakhstan,0.011991514,difficulty breathing or shortness of breath
+Kazakhstan,0.051549899,chest pain or pressure
+Kazakhstan,0.003953462,loss of speech or movement
+Liberia,0.354009084,fever
+Liberia,0.153817881,dry cough
+Liberia,0.01227085,tiredness or fatigue
+Liberia,0.019212514,aches and muscles
+Liberia,0.020290473,sore throat
+Liberia,0.006791381,diarrhoea
+Liberia,0.0,conjunctivitis
+Liberia,0.07561326,headache
+Liberia,0.0,loss of taste or smell
+Liberia,0.003676605,a rash on skin or discolouration of fingers or toes
+Liberia,0.0,difficulty breathing or shortness of breath
+Liberia,0.102755594,chest pain or pressure
+Liberia,0.020793126,loss of speech or movement
+Sierra Leone,0.434785401,fever
+Sierra Leone,0.123989881,dry cough
+Sierra Leone,0.010060042,tiredness or fatigue
+Sierra Leone,0.032003404,aches and muscles
+Sierra Leone,0.022670588,sore throat
+Sierra Leone,0.009658155,diarrhoea
+Sierra Leone,0.0,conjunctivitis
+Sierra Leone,0.061357294,headache
+Sierra Leone,0.0,loss of taste or smell
+Sierra Leone,0.005558419,a rash on skin or discolouration of fingers or toes
+Sierra Leone,0.0,difficulty breathing or shortness of breath
+Sierra Leone,0.045911357,chest pain or pressure
+Sierra Leone,0.023236226,loss of speech or movement
+Guinea,0.425466665,fever
+Guinea,0.167999846,dry cough
+Guinea,0.009427009,tiredness or fatigue
+Guinea,0.02181987,aches and muscles
+Guinea,0.032537843,sore throat
+Guinea,0.005265765,diarrhoea
+Guinea,0.0,conjunctivitis
+Guinea,0.051442605,headache
+Guinea,0.0,loss of taste or smell
+Guinea,0.02165744,a rash on skin or discolouration of fingers or toes
+Guinea,0.016819807,difficulty breathing or shortness of breath
+Guinea,0.070733794,chest pain or pressure
+Guinea,0.022983204,loss of speech or movement
+Costa Rica,0.350800891,fever
+Costa Rica,0.145701858,dry cough
+Costa Rica,0.046091766,tiredness or fatigue
+Costa Rica,0.000627774,aches and muscles
+Costa Rica,0.051064788,sore throat
+Costa Rica,0.0000281,diarrhoea
+Costa Rica,0.003396626,conjunctivitis
+Costa Rica,0.012106327,headache
+Costa Rica,0.0,loss of taste or smell
+Costa Rica,0.046648003,a rash on skin or discolouration of fingers or toes
+Costa Rica,0.0,difficulty breathing or shortness of breath
+Costa Rica,0.157781014,chest pain or pressure
+Costa Rica,0.031906703,loss of speech or movement
+Nicaragua,0.276566631,fever
+Nicaragua,0.090020219,dry cough
+Nicaragua,0.019087398,tiredness or fatigue
+Nicaragua,0.003881004,aches and muscles
+Nicaragua,0.0,sore throat
+Nicaragua,0.0,diarrhoea
+Nicaragua,0.0,conjunctivitis
+Nicaragua,0.007072619,headache
+Nicaragua,0.0,loss of taste or smell
+Nicaragua,0.09792434,a rash on skin or discolouration of fingers or toes
+Nicaragua,0.006533526,difficulty breathing or shortness of breath
+Nicaragua,0.172460872,chest pain or pressure
+Nicaragua,0.018761083,loss of speech or movement
+Belize,0.178669916,fever
+Belize,0.168653691,dry cough
+Belize,0.0,tiredness or fatigue
+Belize,0.014580002,aches and muscles
+Belize,0.0,sore throat
+Belize,0.022708562,diarrhoea
+Belize,0.0,conjunctivitis
+Belize,0.0,headache
+Belize,0.0,loss of taste or smell
+Belize,0.0,a rash on skin or discolouration of fingers or toes
+Belize,0.0,difficulty breathing or shortness of breath
+Belize,0.00000321,chest pain or pressure
+Belize,0.0,loss of speech or movement
+Cyprus,0.180032898,fever
+Cyprus,0.206735625,dry cough
+Cyprus,0.020149641,tiredness or fatigue
+Cyprus,0.071777629,aches and muscles
+Cyprus,0.009536029,sore throat
+Cyprus,0.068367491,diarrhoea
+Cyprus,0.0,conjunctivitis
+Cyprus,0.012166448,headache
+Cyprus,0.0,loss of taste or smell
+Cyprus,0.00910029,a rash on skin or discolouration of fingers or toes
+Cyprus,0.0,difficulty breathing or shortness of breath
+Cyprus,0.114441641,chest pain or pressure
+Cyprus,0.0,loss of speech or movement
+Sudan,0.217616067,fever
+Sudan,0.176128127,dry cough
+Sudan,0.033087035,tiredness or fatigue
+Sudan,0.038165799,aches and muscles
+Sudan,0.058487039,sore throat
+Sudan,0.050941247,diarrhoea
+Sudan,0.0,conjunctivitis
+Sudan,0.028855334,headache
+Sudan,0.0,loss of taste or smell
+Sudan,0.0,a rash on skin or discolouration of fingers or toes
+Sudan,0.0,difficulty breathing or shortness of breath
+Sudan,0.087184081,chest pain or pressure
+Sudan,0.001842962,loss of speech or movement
+Estonia,0.216079136,fever
+Estonia,0.169725467,dry cough
+Estonia,0.019041004,tiredness or fatigue
+Estonia,0.0,aches and muscles
+Estonia,0.017184689,sore throat
+Estonia,0.0000356,diarrhoea
+Estonia,0.0,conjunctivitis
+Estonia,0.030665297,headache
+Estonia,0.0,loss of taste or smell
+Estonia,0.013588493,a rash on skin or discolouration of fingers or toes
+Estonia,0.005298441,difficulty breathing or shortness of breath
+Estonia,0.220689519,chest pain or pressure
+Estonia,0.0,loss of speech or movement
+Liechtenstein,0.076879064,fever
+Liechtenstein,0.07696709,dry cough
+Liechtenstein,0.0,tiredness or fatigue
+Liechtenstein,0.0,aches and muscles
+Liechtenstein,0.0,sore throat
+Liechtenstein,0.0,diarrhoea
+Liechtenstein,0.0,conjunctivitis
+Liechtenstein,0.0,headache
+Liechtenstein,0.0,loss of taste or smell
+Liechtenstein,0.0,a rash on skin or discolouration of fingers or toes
+Liechtenstein,0.0,difficulty breathing or shortness of breath
+Liechtenstein,0.0,chest pain or pressure
+Liechtenstein,0.0,loss of speech or movement
+Luxembourg,0.32636664,fever
+Luxembourg,0.25106167,dry cough
+Luxembourg,0.00000198,tiredness or fatigue
+Luxembourg,0.0,aches and muscles
+Luxembourg,0.00000198,sore throat
+Luxembourg,0.002711852,diarrhoea
+Luxembourg,0.0,conjunctivitis
+Luxembourg,0.026098447,headache
+Luxembourg,0.0,loss of taste or smell
+Luxembourg,0.009091682,a rash on skin or discolouration of fingers or toes
+Luxembourg,0.0,difficulty breathing or shortness of breath
+Luxembourg,0.053312287,chest pain or pressure
+Luxembourg,0.02366115,loss of speech or movement
+Latvia,0.153935848,fever
+Latvia,0.09529234,dry cough
+Latvia,0.004488027,tiredness or fatigue
+Latvia,0.0,aches and muscles
+Latvia,0.0,sore throat
+Latvia,0.0,diarrhoea
+Latvia,0.0,conjunctivitis
+Latvia,0.0,headache
+Latvia,0.0,loss of taste or smell
+Latvia,0.052783302,a rash on skin or discolouration of fingers or toes
+Latvia,0.0,difficulty breathing or shortness of breath
+Latvia,0.078115867,chest pain or pressure
+Latvia,0.0,loss of speech or movement
+Angola,0.223797271,fever
+Angola,0.146886702,dry cough
+Angola,0.007834351,tiredness or fatigue
+Angola,0.0,aches and muscles
+Angola,0.026955027,sore throat
+Angola,0.008765428,diarrhoea
+Angola,0.0,conjunctivitis
+Angola,0.037918189,headache
+Angola,0.0,loss of taste or smell
+Angola,0.007253161,a rash on skin or discolouration of fingers or toes
+Angola,0.0,difficulty breathing or shortness of breath
+Angola,0.23032084,chest pain or pressure
+Angola,0.002576723,loss of speech or movement
+Bermuda,0.105574737,fever
+Bermuda,0.101403295,dry cough
+Bermuda,0.0,tiredness or fatigue
+Bermuda,0.0,aches and muscles
+Bermuda,0.0,sore throat
+Bermuda,0.0,diarrhoea
+Bermuda,0.0,conjunctivitis
+Bermuda,0.0,headache
+Bermuda,0.0,loss of taste or smell
+Bermuda,0.0,a rash on skin or discolouration of fingers or toes
+Bermuda,0.0,difficulty breathing or shortness of breath
+Bermuda,0.023791199,chest pain or pressure
+Bermuda,0.0,loss of speech or movement
+North Korea,0.361664678,fever
+North Korea,0.161883717,dry cough
+North Korea,0.040052629,tiredness or fatigue
+North Korea,0.002487298,aches and muscles
+North Korea,0.023511713,sore throat
+North Korea,0.0,diarrhoea
+North Korea,0.0,conjunctivitis
+North Korea,0.038909709,headache
+North Korea,0.0,loss of taste or smell
+North Korea,0.012103026,a rash on skin or discolouration of fingers or toes
+North Korea,0.030216959,difficulty breathing or shortness of breath
+North Korea,0.092467227,chest pain or pressure
+North Korea,0.005933814,loss of speech or movement
+Oman,0.311934576,fever
+Oman,0.142195124,dry cough
+Oman,0.014735064,tiredness or fatigue
+Oman,0.003039852,aches and muscles
+Oman,0.049666039,sore throat
+Oman,0.0,diarrhoea
+Oman,0.0,conjunctivitis
+Oman,0.032418818,headache
+Oman,0.0,loss of taste or smell
+Oman,0.00000117,a rash on skin or discolouration of fingers or toes
+Oman,0.0,difficulty breathing or shortness of breath
+Oman,0.061393972,chest pain or pressure
+Oman,0.0,loss of speech or movement
+Honduras,0.282992538,fever
+Honduras,0.155217054,dry cough
+Honduras,0.013813846,tiredness or fatigue
+Honduras,0.003170276,aches and muscles
+Honduras,0.008087768,sore throat
+Honduras,0.0,diarrhoea
+Honduras,0.0,conjunctivitis
+Honduras,0.019892262,headache
+Honduras,0.0,loss of taste or smell
+Honduras,0.00000314,a rash on skin or discolouration of fingers or toes
+Honduras,0.0,difficulty breathing or shortness of breath
+Honduras,0.203205502,chest pain or pressure
+Honduras,0.005925301,loss of speech or movement
+Mongolia,0.297902763,fever
+Mongolia,0.235152297,dry cough
+Mongolia,0.011891131,tiredness or fatigue
+Mongolia,0.0,aches and muscles
+Mongolia,0.068728949,sore throat
+Mongolia,0.017649403,diarrhoea
+Mongolia,0.0,conjunctivitis
+Mongolia,0.007324797,headache
+Mongolia,0.0,loss of taste or smell
+Mongolia,0.002969604,a rash on skin or discolouration of fingers or toes
+Mongolia,0.000631256,difficulty breathing or shortness of breath
+Mongolia,0.050057492,chest pain or pressure
+Mongolia,0.0,loss of speech or movement
+Somalia,0.214289849,fever
+Somalia,0.157936216,dry cough
+Somalia,0.004664852,tiredness or fatigue
+Somalia,0.0,aches and muscles
+Somalia,0.0,sore throat
+Somalia,0.003284827,diarrhoea
+Somalia,0.0,conjunctivitis
+Somalia,0.023159642,headache
+Somalia,0.0,loss of taste or smell
+Somalia,0.045883194,a rash on skin or discolouration of fingers or toes
+Somalia,0.00935782,difficulty breathing or shortness of breath
+Somalia,0.156808216,chest pain or pressure
+Somalia,0.0,loss of speech or movement
+Guatemala,0.260066255,fever
+Guatemala,0.113366804,dry cough
+Guatemala,0.003202784,tiredness or fatigue
+Guatemala,0.004013828,aches and muscles
+Guatemala,0.058854819,sore throat
+Guatemala,0.0,diarrhoea
+Guatemala,0.0,conjunctivitis
+Guatemala,0.030853708,headache
+Guatemala,0.0,loss of taste or smell
+Guatemala,0.0,a rash on skin or discolouration of fingers or toes
+Guatemala,0.0,difficulty breathing or shortness of breath
+Guatemala,0.142320266,chest pain or pressure
+Guatemala,0.002706152,loss of speech or movement
+North Macedonia,0.18371761,fever
+North Macedonia,0.209993529,dry cough
+North Macedonia,0.025750459,tiredness or fatigue
+North Macedonia,0.058561113,aches and muscles
+North Macedonia,0.058561113,sore throat
+North Macedonia,0.0,diarrhoea
+North Macedonia,0.0,conjunctivitis
+North Macedonia,0.0,headache
+North Macedonia,0.0,loss of taste or smell
+North Macedonia,0.001002252,a rash on skin or discolouration of fingers or toes
+North Macedonia,0.0,difficulty breathing or shortness of breath
+North Macedonia,0.000875464,chest pain or pressure
+North Macedonia,0.0,loss of speech or movement
+Namibia,0.23641273,fever
+Namibia,0.175520393,dry cough
+Namibia,0.034136443,tiredness or fatigue
+Namibia,0.0,aches and muscles
+Namibia,0.015766961,sore throat
+Namibia,0.0,diarrhoea
+Namibia,0.0,conjunctivitis
+Namibia,0.0,headache
+Namibia,0.0,loss of taste or smell
+Namibia,0.015337673,a rash on skin or discolouration of fingers or toes
+Namibia,0.00000417,difficulty breathing or shortness of breath
+Namibia,0.061283171,chest pain or pressure
+Namibia,0.0,loss of speech or movement
+Madagascar,0.383171413,fever
+Madagascar,0.197370572,dry cough
+Madagascar,0.029297268,tiredness or fatigue
+Madagascar,0.122472394,aches and muscles
+Madagascar,0.003036825,sore throat
+Madagascar,0.017996002,diarrhoea
+Madagascar,0.0,conjunctivitis
+Madagascar,0.006626533,headache
+Madagascar,0.0,loss of taste or smell
+Madagascar,0.024614118,a rash on skin or discolouration of fingers or toes
+Madagascar,0.001013708,difficulty breathing or shortness of breath
+Madagascar,0.043297865,chest pain or pressure
+Madagascar,0.017257147,loss of speech or movement
+Mozambique,0.284147713,fever
+Mozambique,0.180595244,dry cough
+Mozambique,0.059747603,tiredness or fatigue
+Mozambique,0.0,aches and muscles
+Mozambique,0.013813894,sore throat
+Mozambique,0.0,diarrhoea
+Mozambique,0.0,conjunctivitis
+Mozambique,0.008957846,headache
+Mozambique,0.0,loss of taste or smell
+Mozambique,0.004030829,a rash on skin or discolouration of fingers or toes
+Mozambique,0.00000244,difficulty breathing or shortness of breath
+Mozambique,0.138565541,chest pain or pressure
+Mozambique,0.002446586,loss of speech or movement
+Burundi,0.116220261,fever
+Burundi,0.055793922,dry cough
+Burundi,0.0,tiredness or fatigue
+Burundi,0.0,aches and muscles
+Burundi,0.0,sore throat
+Burundi,0.00000436,diarrhoea
+Burundi,0.0,conjunctivitis
+Burundi,0.036237799,headache
+Burundi,0.0,loss of taste or smell
+Burundi,0.0,a rash on skin or discolouration of fingers or toes
+Burundi,0.0,difficulty breathing or shortness of breath
+Burundi,0.245268132,chest pain or pressure
+Burundi,0.008013991,loss of speech or movement
+Zambia,0.268218722,fever
+Zambia,0.098393074,dry cough
+Zambia,0.017464082,tiredness or fatigue
+Zambia,0.0,aches and muscles
+Zambia,0.0,sore throat
+Zambia,0.003647755,diarrhoea
+Zambia,0.0,conjunctivitis
+Zambia,0.003284065,headache
+Zambia,0.0,loss of taste or smell
+Zambia,0.003897762,a rash on skin or discolouration of fingers or toes
+Zambia,0.0,difficulty breathing or shortness of breath
+Zambia,0.218339268,chest pain or pressure
+Zambia,0.002139886,loss of speech or movement
+Gabon,0.231032077,fever
+Gabon,0.2673695,dry cough
+Gabon,0.0,tiredness or fatigue
+Gabon,0.0,aches and muscles
+Gabon,0.00007,sore throat
+Gabon,0.0,diarrhoea
+Gabon,0.0,conjunctivitis
+Gabon,0.005436972,headache
+Gabon,0.0,loss of taste or smell
+Gabon,0.007154118,a rash on skin or discolouration of fingers or toes
+Gabon,0.0,difficulty breathing or shortness of breath
+Gabon,0.020244772,chest pain or pressure
+Gabon,0.007154118,loss of speech or movement
+Azerbaijan,0.207208519,fever
+Azerbaijan,0.145838029,dry cough
+Azerbaijan,0.014433584,tiredness or fatigue
+Azerbaijan,0.0,aches and muscles
+Azerbaijan,0.0,sore throat
+Azerbaijan,0.0,diarrhoea
+Azerbaijan,0.0,conjunctivitis
+Azerbaijan,0.056264469,headache
+Azerbaijan,0.0,loss of taste or smell
+Azerbaijan,0.062241625,a rash on skin or discolouration of fingers or toes
+Azerbaijan,0.042880868,difficulty breathing or shortness of breath
+Azerbaijan,0.08202954,chest pain or pressure
+Azerbaijan,0.00448798,loss of speech or movement
+Central African Republic,0.244847714,fever
+Central African Republic,0.076855097,dry cough
+Central African Republic,0.0,tiredness or fatigue
+Central African Republic,0.0,aches and muscles
+Central African Republic,0.0,sore throat
+Central African Republic,0.011339182,diarrhoea
+Central African Republic,0.0,conjunctivitis
+Central African Republic,0.004885284,headache
+Central African Republic,0.0,loss of taste or smell
+Central African Republic,0.0,a rash on skin or discolouration of fingers or toes
+Central African Republic,0.0,difficulty breathing or shortness of breath
+Central African Republic,0.121654285,chest pain or pressure
+Central African Republic,0.0019569,loss of speech or movement
+Jersey,0.216068615,fever
+Jersey,0.153691704,dry cough
+Jersey,0.010719391,tiredness or fatigue
+Jersey,0.0,aches and muscles
+Jersey,0.0,sore throat
+Jersey,0.0,diarrhoea
+Jersey,0.0,conjunctivitis
+Jersey,0.019558898,headache
+Jersey,0.0,loss of taste or smell
+Jersey,0.00000246,a rash on skin or discolouration of fingers or toes
+Jersey,0.0,difficulty breathing or shortness of breath
+Jersey,0.131182123,chest pain or pressure
+Jersey,0.007238352,loss of speech or movement
+Albania,0.121338171,fever
+Albania,0.095351677,dry cough
+Albania,0.004037079,tiredness or fatigue
+Albania,0.0,aches and muscles
+Albania,0.0,sore throat
+Albania,0.0,diarrhoea
+Albania,0.0,conjunctivitis
+Albania,0.0,headache
+Albania,0.0,loss of taste or smell
+Albania,0.0,a rash on skin or discolouration of fingers or toes
+Albania,0.0,difficulty breathing or shortness of breath
+Albania,0.155749446,chest pain or pressure
+Albania,0.008139011,loss of speech or movement
+Gibraltar,0.219311634,fever
+Gibraltar,0.065938902,dry cough
+Gibraltar,0.039019256,tiredness or fatigue
+Gibraltar,0.084442436,aches and muscles
+Gibraltar,0.0,sore throat
+Gibraltar,0.082506366,diarrhoea
+Gibraltar,0.0,conjunctivitis
+Gibraltar,0.0,headache
+Gibraltar,0.0,loss of taste or smell
+Gibraltar,0.025062532,a rash on skin or discolouration of fingers or toes
+Gibraltar,0.0,difficulty breathing or shortness of breath
+Gibraltar,0.022180412,chest pain or pressure
+Gibraltar,0.0,loss of speech or movement
+Falkland Islands,0.326863042,fever
+Falkland Islands,0.0000147,dry cough
+Falkland Islands,0.019260237,tiredness or fatigue
+Falkland Islands,0.000193678,aches and muscles
+Falkland Islands,0.0,sore throat
+Falkland Islands,0.0,diarrhoea
+Falkland Islands,0.0,conjunctivitis
+Falkland Islands,0.038283755,headache
+Falkland Islands,0.0,loss of taste or smell
+Falkland Islands,0.0,a rash on skin or discolouration of fingers or toes
+Falkland Islands,0.0,difficulty breathing or shortness of breath
+Falkland Islands,0.0,chest pain or pressure
+Falkland Islands,0.0,loss of speech or movement
+Montenegro,0.071565188,fever
+Montenegro,0.063176843,dry cough
+Montenegro,0.117894845,tiredness or fatigue
+Montenegro,0.0,aches and muscles
+Montenegro,0.0,sore throat
+Montenegro,0.0,diarrhoea
+Montenegro,0.065641145,conjunctivitis
+Montenegro,0.0,headache
+Montenegro,0.0,loss of taste or smell
+Montenegro,0.0000203,a rash on skin or discolouration of fingers or toes
+Montenegro,0.0,difficulty breathing or shortness of breath
+Montenegro,0.143240189,chest pain or pressure
+Montenegro,0.0,loss of speech or movement
+Seychelles,0.194614647,fever
+Seychelles,0.076061031,dry cough
+Seychelles,0.0,tiredness or fatigue
+Seychelles,0.0,aches and muscles
+Seychelles,0.0,sore throat
+Seychelles,0.0,diarrhoea
+Seychelles,0.0,conjunctivitis
+Seychelles,0.0000432,headache
+Seychelles,0.0,loss of taste or smell
+Seychelles,0.0,a rash on skin or discolouration of fingers or toes
+Seychelles,0.0,difficulty breathing or shortness of breath
+Seychelles,0.036973431,chest pain or pressure
+Seychelles,0.0,loss of speech or movement
+U.S. Virgin Islands,0.175249278,fever
+U.S. Virgin Islands,0.128431362,dry cough
+U.S. Virgin Islands,0.0,tiredness or fatigue
+U.S. Virgin Islands,0.0,aches and muscles
+U.S. Virgin Islands,0.0,sore throat
+U.S. Virgin Islands,0.0,diarrhoea
+U.S. Virgin Islands,0.0,conjunctivitis
+U.S. Virgin Islands,0.025803501,headache
+U.S. Virgin Islands,0.0,loss of taste or smell
+U.S. Virgin Islands,0.023408958,a rash on skin or discolouration of fingers or toes
+U.S. Virgin Islands,0.0,difficulty breathing or shortness of breath
+U.S. Virgin Islands,0.031722285,chest pain or pressure
+U.S. Virgin Islands,0.0,loss of speech or movement
+Paraguay,0.113683713,fever
+Paraguay,0.055528912,dry cough
+Paraguay,0.061103693,tiredness or fatigue
+Paraguay,0.0,aches and muscles
+Paraguay,0.013354846,sore throat
+Paraguay,0.0,diarrhoea
+Paraguay,0.0,conjunctivitis
+Paraguay,0.0,headache
+Paraguay,0.0,loss of taste or smell
+Paraguay,0.061101568,a rash on skin or discolouration of fingers or toes
+Paraguay,0.0,difficulty breathing or shortness of breath
+Paraguay,0.17258724,chest pain or pressure
+Paraguay,0.061101568,loss of speech or movement
+American Samoa,0.193135628,fever
+American Samoa,0.152077061,dry cough
+American Samoa,0.0,tiredness or fatigue
+American Samoa,0.0,aches and muscles
+American Samoa,0.0,sore throat
+American Samoa,0.0,diarrhoea
+American Samoa,0.0,conjunctivitis
+American Samoa,0.003624739,headache
+American Samoa,0.0,loss of taste or smell
+American Samoa,0.001987115,a rash on skin or discolouration of fingers or toes
+American Samoa,0.0,difficulty breathing or shortness of breath
+American Samoa,0.033790841,chest pain or pressure
+American Samoa,0.0,loss of speech or movement
+Dominican Republic,0.22713774,fever
+Dominican Republic,0.199308737,dry cough
+Dominican Republic,0.011811602,tiredness or fatigue
+Dominican Republic,0.0,aches and muscles
+Dominican Republic,0.004734119,sore throat
+Dominican Republic,0.002315782,diarrhoea
+Dominican Republic,0.0,conjunctivitis
+Dominican Republic,0.04508767,headache
+Dominican Republic,0.0,loss of taste or smell
+Dominican Republic,0.000700571,a rash on skin or discolouration of fingers or toes
+Dominican Republic,0.0,difficulty breathing or shortness of breath
+Dominican Republic,0.124288394,chest pain or pressure
+Dominican Republic,0.0,loss of speech or movement
+Eritrea,0.075265949,fever
+Eritrea,0.102632412,dry cough
+Eritrea,0.042324316,tiredness or fatigue
+Eritrea,0.0,aches and muscles
+Eritrea,0.0,sore throat
+Eritrea,0.025598647,diarrhoea
+Eritrea,0.0,conjunctivitis
+Eritrea,0.0,headache
+Eritrea,0.0,loss of taste or smell
+Eritrea,0.0,a rash on skin or discolouration of fingers or toes
+Eritrea,0.0,difficulty breathing or shortness of breath
+Eritrea,0.13879406,chest pain or pressure
+Eritrea,0.0,loss of speech or movement
+Bosnia and Herzegovina,0.125913864,fever
+Bosnia and Herzegovina,0.109403504,dry cough
+Bosnia and Herzegovina,0.025847332,tiredness or fatigue
+Bosnia and Herzegovina,0.0,aches and muscles
+Bosnia and Herzegovina,0.0,sore throat
+Bosnia and Herzegovina,0.0,diarrhoea
+Bosnia and Herzegovina,0.0,conjunctivitis
+Bosnia and Herzegovina,0.0,headache
+Bosnia and Herzegovina,0.0,loss of taste or smell
+Bosnia and Herzegovina,0.0,a rash on skin or discolouration of fingers or toes
+Bosnia and Herzegovina,0.0,difficulty breathing or shortness of breath
+Bosnia and Herzegovina,0.046527608,chest pain or pressure
+Bosnia and Herzegovina,0.0,loss of speech or movement
+Tokelau,0.000224829,fever
+Tokelau,0.000980113,dry cough
+Tokelau,0.0,tiredness or fatigue
+Tokelau,0.229564289,aches and muscles
+Tokelau,0.0,sore throat
+Tokelau,0.0,diarrhoea
+Tokelau,0.0,conjunctivitis
+Tokelau,0.0,headache
+Tokelau,0.0,loss of taste or smell
+Tokelau,0.0,a rash on skin or discolouration of fingers or toes
+Tokelau,0.0,difficulty breathing or shortness of breath
+Tokelau,0.0,chest pain or pressure
+Tokelau,0.0,loss of speech or movement
+Macao,0.283730293,fever
+Macao,0.17853156,dry cough
+Macao,0.008232365,tiredness or fatigue
+Macao,0.027485341,aches and muscles
+Macao,0.06513298,sore throat
+Macao,0.0,diarrhoea
+Macao,0.0,conjunctivitis
+Macao,0.014136787,headache
+Macao,0.0,loss of taste or smell
+Macao,0.012513245,a rash on skin or discolouration of fingers or toes
+Macao,0.0,difficulty breathing or shortness of breath
+Macao,0.025622045,chest pain or pressure
+Macao,0.0,loss of speech or movement
+Kosovo,0.109584735,fever
+Kosovo,0.092536704,dry cough
+Kosovo,0.072244633,tiredness or fatigue
+Kosovo,0.0,aches and muscles
+Kosovo,0.06740651,sore throat
+Kosovo,0.0,diarrhoea
+Kosovo,0.0,conjunctivitis
+Kosovo,0.0,headache
+Kosovo,0.0,loss of taste or smell
+Kosovo,0.0,a rash on skin or discolouration of fingers or toes
+Kosovo,0.0,difficulty breathing or shortness of breath
+Kosovo,0.042842802,chest pain or pressure
+Kosovo,0.0,loss of speech or movement
+Croatia,0.30928346,fever
+Croatia,0.205596901,dry cough
+Croatia,0.001129307,tiredness or fatigue
+Croatia,0.035732642,aches and muscles
+Croatia,0.012582686,sore throat
+Croatia,0.0,diarrhoea
+Croatia,0.0,conjunctivitis
+Croatia,0.006430158,headache
+Croatia,0.0,loss of taste or smell
+Croatia,0.002171304,a rash on skin or discolouration of fingers or toes
+Croatia,0.0,difficulty breathing or shortness of breath
+Croatia,0.118824866,chest pain or pressure
+Croatia,0.000556368,loss of speech or movement
+Northern Mariana Islands,0.202391516,fever
+Northern Mariana Islands,0.202391516,dry cough
+Northern Mariana Islands,0.0,tiredness or fatigue
+Northern Mariana Islands,0.0,aches and muscles
+Northern Mariana Islands,0.0,sore throat
+Northern Mariana Islands,0.0,diarrhoea
+Northern Mariana Islands,0.0,conjunctivitis
+Northern Mariana Islands,0.002439442,headache
+Northern Mariana Islands,0.0,loss of taste or smell
+Northern Mariana Islands,0.00102034,a rash on skin or discolouration of fingers or toes
+Northern Mariana Islands,0.015227328,difficulty breathing or shortness of breath
+Northern Mariana Islands,0.03806832,chest pain or pressure
+Northern Mariana Islands,0.0,loss of speech or movement
+Djibouti,0.093561578,fever
+Djibouti,0.061760951,dry cough
+Djibouti,0.0,tiredness or fatigue
+Djibouti,0.0,aches and muscles
+Djibouti,0.0,sore throat
+Djibouti,0.0,diarrhoea
+Djibouti,0.0,conjunctivitis
+Djibouti,0.0,headache
+Djibouti,0.0,loss of taste or smell
+Djibouti,0.0,a rash on skin or discolouration of fingers or toes
+Djibouti,0.0,difficulty breathing or shortness of breath
+Djibouti,0.145955053,chest pain or pressure
+Djibouti,0.006414725,loss of speech or movement
+Guinea-Bissau,0.218970334,fever
+Guinea-Bissau,0.008222258,dry cough
+Guinea-Bissau,0.0,tiredness or fatigue
+Guinea-Bissau,0.0,aches and muscles
+Guinea-Bissau,0.0,sore throat
+Guinea-Bissau,0.0,diarrhoea
+Guinea-Bissau,0.0,conjunctivitis
+Guinea-Bissau,0.003576639,headache
+Guinea-Bissau,0.0,loss of taste or smell
+Guinea-Bissau,0.0,a rash on skin or discolouration of fingers or toes
+Guinea-Bissau,0.0,difficulty breathing or shortness of breath
+Guinea-Bissau,0.0,chest pain or pressure
+Guinea-Bissau,0.0,loss of speech or movement
+Montserrat,0.0,fever
+Montserrat,0.0,dry cough
+Montserrat,0.076923077,tiredness or fatigue
+Montserrat,0.0,aches and muscles
+Montserrat,0.0,sore throat
+Montserrat,0.0,diarrhoea
+Montserrat,0.0,conjunctivitis
+Montserrat,0.0,headache
+Montserrat,0.0,loss of taste or smell
+Montserrat,0.0,a rash on skin or discolouration of fingers or toes
+Montserrat,0.0,difficulty breathing or shortness of breath
+Montserrat,0.0,chest pain or pressure
+Montserrat,0.0,loss of speech or movement
+Lesotho,0.216614924,fever
+Lesotho,0.161153883,dry cough
+Lesotho,0.026020285,tiredness or fatigue
+Lesotho,0.0,aches and muscles
+Lesotho,0.0,sore throat
+Lesotho,0.0,diarrhoea
+Lesotho,0.0,conjunctivitis
+Lesotho,0.021415576,headache
+Lesotho,0.0,loss of taste or smell
+Lesotho,0.0,a rash on skin or discolouration of fingers or toes
+Lesotho,0.0,difficulty breathing or shortness of breath
+Lesotho,0.03314551,chest pain or pressure
+Lesotho,0.003188284,loss of speech or movement
+Guernsey,0.122596533,fever
+Guernsey,0.0,dry cough
+Guernsey,0.0,tiredness or fatigue
+Guernsey,0.0,aches and muscles
+Guernsey,0.0,sore throat
+Guernsey,0.0,diarrhoea
+Guernsey,0.0,conjunctivitis
+Guernsey,0.0,headache
+Guernsey,0.0,loss of taste or smell
+Guernsey,0.0,a rash on skin or discolouration of fingers or toes
+Guernsey,0.0,difficulty breathing or shortness of breath
+Guernsey,0.031249621,chest pain or pressure
+Guernsey,0.0,loss of speech or movement
+Andorra,0.070326165,fever
+Andorra,0.055239896,dry cough
+Andorra,0.0,tiredness or fatigue
+Andorra,0.0,aches and muscles
+Andorra,0.0,sore throat
+Andorra,0.0,diarrhoea
+Andorra,0.0,conjunctivitis
+Andorra,0.0,headache
+Andorra,0.0,loss of taste or smell
+Andorra,0.0,a rash on skin or discolouration of fingers or toes
+Andorra,0.0,difficulty breathing or shortness of breath
+Andorra,0.063792973,chest pain or pressure
+Andorra,0.118333275,loss of speech or movement
+Guyana,0.14654069,fever
+Guyana,0.137824077,dry cough
+Guyana,0.0,tiredness or fatigue
+Guyana,0.0,aches and muscles
+Guyana,0.0,sore throat
+Guyana,0.0,diarrhoea
+Guyana,0.0,conjunctivitis
+Guyana,0.004895065,headache
+Guyana,0.0,loss of taste or smell
+Guyana,0.0,a rash on skin or discolouration of fingers or toes
+Guyana,0.0,difficulty breathing or shortness of breath
+Guyana,0.095354545,chest pain or pressure
+Guyana,0.00000101,loss of speech or movement
+Suriname,0.15774456,fever
+Suriname,0.139626759,dry cough
+Suriname,0.0,tiredness or fatigue
+Suriname,0.0,aches and muscles
+Suriname,0.0,sore throat
+Suriname,0.0,diarrhoea
+Suriname,0.0,conjunctivitis
+Suriname,0.0,headache
+Suriname,0.0,loss of taste or smell
+Suriname,0.0,a rash on skin or discolouration of fingers or toes
+Suriname,0.0181178,difficulty breathing or shortness of breath
+Suriname,0.051008465,chest pain or pressure
+Suriname,0.0181178,loss of speech or movement
+Moldova,0.132131918,fever
+Moldova,0.06392504,dry cough
+Moldova,0.010803589,tiredness or fatigue
+Moldova,0.0,aches and muscles
+Moldova,0.0,sore throat
+Moldova,0.0,diarrhoea
+Moldova,0.0,conjunctivitis
+Moldova,0.0,headache
+Moldova,0.0,loss of taste or smell
+Moldova,0.0,a rash on skin or discolouration of fingers or toes
+Moldova,0.0,difficulty breathing or shortness of breath
+Moldova,0.100831761,chest pain or pressure
+Moldova,0.0,loss of speech or movement
+Faroe Islands,0.000797828,fever
+Faroe Islands,0.0,dry cough
+Faroe Islands,0.000362649,tiredness or fatigue
+Faroe Islands,0.0,aches and muscles
+Faroe Islands,0.0,sore throat
+Faroe Islands,0.0,diarrhoea
+Faroe Islands,0.0,conjunctivitis
+Faroe Islands,0.0,headache
+Faroe Islands,0.0,loss of taste or smell
+Faroe Islands,0.0,a rash on skin or discolouration of fingers or toes
+Faroe Islands,0.0,difficulty breathing or shortness of breath
+Faroe Islands,0.229608753,chest pain or pressure
+Faroe Islands,0.0,loss of speech or movement
+San Marino,0.1671232,fever
+San Marino,0.095152976,dry cough
+San Marino,0.0,tiredness or fatigue
+San Marino,0.0,aches and muscles
+San Marino,0.043518069,sore throat
+San Marino,0.016755602,diarrhoea
+San Marino,0.0,conjunctivitis
+San Marino,0.0,headache
+San Marino,0.0,loss of taste or smell
+San Marino,0.0,a rash on skin or discolouration of fingers or toes
+San Marino,0.0,difficulty breathing or shortness of breath
+San Marino,0.062065539,chest pain or pressure
+San Marino,0.0,loss of speech or movement
+Timor Leste,0.0,fever
+Timor Leste,0.0,dry cough
+Timor Leste,0.0,tiredness or fatigue
+Timor Leste,0.0,aches and muscles
+Timor Leste,0.0,sore throat
+Timor Leste,0.0,diarrhoea
+Timor Leste,0.0,conjunctivitis
+Timor Leste,0.0,headache
+Timor Leste,0.0,loss of taste or smell
+Timor Leste,0.0,a rash on skin or discolouration of fingers or toes
+Timor Leste,0.0,difficulty breathing or shortness of breath
+Timor Leste,0.076923077,chest pain or pressure
+Timor Leste,0.0,loss of speech or movement
+Niue,0.153572903,fever
+Niue,0.000273251,dry cough
+Niue,0.0,tiredness or fatigue
+Niue,0.0,aches and muscles
+Niue,0.0,sore throat
+Niue,0.0,diarrhoea
+Niue,0.0,conjunctivitis
+Niue,0.0,headache
+Niue,0.0,loss of taste or smell
+Niue,0.0,a rash on skin or discolouration of fingers or toes
+Niue,0.0,difficulty breathing or shortness of breath
+Niue,0.0,chest pain or pressure
+Niue,0.0,loss of speech or movement
+Mauritania,0.199041803,fever
+Mauritania,0.197483273,dry cough
+Mauritania,0.009059266,tiredness or fatigue
+Mauritania,0.0,aches and muscles
+Mauritania,0.0,sore throat
+Mauritania,0.0,diarrhoea
+Mauritania,0.0,conjunctivitis
+Mauritania,0.0000372,headache
+Mauritania,0.0,loss of taste or smell
+Mauritania,0.0,a rash on skin or discolouration of fingers or toes
+Mauritania,0.0,difficulty breathing or shortness of breath
+Mauritania,0.054138531,chest pain or pressure
+Mauritania,0.001778377,loss of speech or movement
+Gambia,0.138609657,fever
+Gambia,0.132137751,dry cough
+Gambia,0.0,tiredness or fatigue
+Gambia,0.0,aches and muscles
+Gambia,0.0,sore throat
+Gambia,0.0,diarrhoea
+Gambia,0.0,conjunctivitis
+Gambia,0.019691016,headache
+Gambia,0.0,loss of taste or smell
+Gambia,0.0,a rash on skin or discolouration of fingers or toes
+Gambia,0.0,difficulty breathing or shortness of breath
+Gambia,0.090654379,chest pain or pressure
+Gambia,0.003522581,loss of speech or movement
+Republic of the Congo,0.0,fever
+Republic of the Congo,0.057837132,dry cough
+Republic of the Congo,0.0,tiredness or fatigue
+Republic of the Congo,0.0,aches and muscles
+Republic of the Congo,0.0,sore throat
+Republic of the Congo,0.0,diarrhoea
+Republic of the Congo,0.0,conjunctivitis
+Republic of the Congo,0.0,headache
+Republic of the Congo,0.0,loss of taste or smell
+Republic of the Congo,0.0,a rash on skin or discolouration of fingers or toes
+Republic of the Congo,0.0,difficulty breathing or shortness of breath
+Republic of the Congo,0.096009022,chest pain or pressure
+Republic of the Congo,0.0,loss of speech or movement
+Grenada,0.098182131,fever
+Grenada,0.0,dry cough
+Grenada,0.0,tiredness or fatigue
+Grenada,0.0,aches and muscles
+Grenada,0.0,sore throat
+Grenada,0.0,diarrhoea
+Grenada,0.0,conjunctivitis
+Grenada,0.0,headache
+Grenada,0.0,loss of taste or smell
+Grenada,0.01124071,a rash on skin or discolouration of fingers or toes
+Grenada,0.080090984,difficulty breathing or shortness of breath
+Grenada,0.0,chest pain or pressure
+Grenada,0.118178482,loss of speech or movement
+French Guiana,0.130624093,fever
+French Guiana,0.0,dry cough
+French Guiana,0.0,tiredness or fatigue
+French Guiana,0.0,aches and muscles
+French Guiana,0.0,sore throat
+French Guiana,0.0,diarrhoea
+French Guiana,0.0,conjunctivitis
+French Guiana,0.0,headache
+French Guiana,0.0,loss of taste or smell
+French Guiana,0.0,a rash on skin or discolouration of fingers or toes
+French Guiana,0.0,difficulty breathing or shortness of breath
+French Guiana,0.023222061,chest pain or pressure
+French Guiana,0.0,loss of speech or movement
+Christmas Island,0.396685993,fever
+Christmas Island,0.152143159,dry cough
+Christmas Island,0.017189847,tiredness or fatigue
+Christmas Island,0.0,aches and muscles
+Christmas Island,0.017396952,sore throat
+Christmas Island,0.002675036,diarrhoea
+Christmas Island,0.0,conjunctivitis
+Christmas Island,0.006380032,headache
+Christmas Island,0.0,loss of taste or smell
+Christmas Island,0.0,a rash on skin or discolouration of fingers or toes
+Christmas Island,0.011281244,difficulty breathing or shortness of breath
+Christmas Island,0.011632353,chest pain or pressure
+Christmas Island,0.0,loss of speech or movement
+Czechia,0.0,fever
+Czechia,0.076923077,dry cough
+Czechia,0.0,tiredness or fatigue
+Czechia,0.0,aches and muscles
+Czechia,0.0,sore throat
+Czechia,0.0,diarrhoea
+Czechia,0.0,conjunctivitis
+Czechia,0.0,headache
+Czechia,0.0,loss of taste or smell
+Czechia,0.0,a rash on skin or discolouration of fingers or toes
+Czechia,0.0,difficulty breathing or shortness of breath
+Czechia,0.0,chest pain or pressure
+Czechia,0.0,loss of speech or movement
+Equatorial Guinea,0.060414934,fever
+Equatorial Guinea,0.060399532,dry cough
+Equatorial Guinea,0.0,tiredness or fatigue
+Equatorial Guinea,0.0,aches and muscles
+Equatorial Guinea,0.0,sore throat
+Equatorial Guinea,0.0,diarrhoea
+Equatorial Guinea,0.0,conjunctivitis
+Equatorial Guinea,0.0,headache
+Equatorial Guinea,0.0,loss of taste or smell
+Equatorial Guinea,0.0,a rash on skin or discolouration of fingers or toes
+Equatorial Guinea,0.0,difficulty breathing or shortness of breath
+Equatorial Guinea,0.109954765,chest pain or pressure
+Equatorial Guinea,0.0,loss of speech or movement
+Guadeloupe,0.208589721,fever
+Guadeloupe,0.078578653,dry cough
+Guadeloupe,0.0,tiredness or fatigue
+Guadeloupe,0.0,aches and muscles
+Guadeloupe,0.0,sore throat
+Guadeloupe,0.0,diarrhoea
+Guadeloupe,0.0,conjunctivitis
+Guadeloupe,0.0,headache
+Guadeloupe,0.0,loss of taste or smell
+Guadeloupe,0.020456671,a rash on skin or discolouration of fingers or toes
+Guadeloupe,0.0,difficulty breathing or shortness of breath
+Guadeloupe,0.0000673,chest pain or pressure
+Guadeloupe,0.0,loss of speech or movement
+Saint Kitts and Nevis,0.0,fever
+Saint Kitts and Nevis,0.076923077,dry cough
+Saint Kitts and Nevis,0.0,tiredness or fatigue
+Saint Kitts and Nevis,0.0,aches and muscles
+Saint Kitts and Nevis,0.0,sore throat
+Saint Kitts and Nevis,0.0,diarrhoea
+Saint Kitts and Nevis,0.0,conjunctivitis
+Saint Kitts and Nevis,0.0,headache
+Saint Kitts and Nevis,0.0,loss of taste or smell
+Saint Kitts and Nevis,0.0,a rash on skin or discolouration of fingers or toes
+Saint Kitts and Nevis,0.0,difficulty breathing or shortness of breath
+Saint Kitts and Nevis,0.0,chest pain or pressure
+Saint Kitts and Nevis,0.0,loss of speech or movement
+Martinique,0.185136482,fever
+Martinique,0.067948052,dry cough
+Martinique,0.0,tiredness or fatigue
+Martinique,0.013207184,aches and muscles
+Martinique,0.0,sore throat
+Martinique,0.0,diarrhoea
+Martinique,0.0,conjunctivitis
+Martinique,0.0,headache
+Martinique,0.0,loss of taste or smell
+Martinique,0.0,a rash on skin or discolouration of fingers or toes
+Martinique,0.0,difficulty breathing or shortness of breath
+Martinique,0.041400589,chest pain or pressure
+Martinique,0.0,loss of speech or movement
+Curacao,0.0,fever
+Curacao,0.0,dry cough
+Curacao,0.0,tiredness or fatigue
+Curacao,0.0,aches and muscles
+Curacao,0.0,sore throat
+Curacao,0.071744582,diarrhoea
+Curacao,0.0,conjunctivitis
+Curacao,0.0,headache
+Curacao,0.0,loss of taste or smell
+Curacao,0.0,a rash on skin or discolouration of fingers or toes
+Curacao,0.0,difficulty breathing or shortness of breath
+Curacao,0.082101572,chest pain or pressure
+Curacao,0.0,loss of speech or movement
+Saint Martin,0.076923077,fever
+Saint Martin,0.0,dry cough
+Saint Martin,0.0,tiredness or fatigue
+Saint Martin,0.0,aches and muscles
+Saint Martin,0.0,sore throat
+Saint Martin,0.0,diarrhoea
+Saint Martin,0.0,conjunctivitis
+Saint Martin,0.0,headache
+Saint Martin,0.0,loss of taste or smell
+Saint Martin,0.0,a rash on skin or discolouration of fingers or toes
+Saint Martin,0.0,difficulty breathing or shortness of breath
+Saint Martin,0.0,chest pain or pressure
+Saint Martin,0.0,loss of speech or movement
+Mayotte,0.078814408,fever
+Mayotte,0.075031746,dry cough
+Mayotte,0.0,tiredness or fatigue
+Mayotte,0.0,aches and muscles
+Mayotte,0.0,sore throat
+Mayotte,0.0,diarrhoea
+Mayotte,0.0,conjunctivitis
+Mayotte,0.0,headache
+Mayotte,0.0,loss of taste or smell
+Mayotte,0.0,a rash on skin or discolouration of fingers or toes
+Mayotte,0.0,difficulty breathing or shortness of breath
+Mayotte,0.0,chest pain or pressure
+Mayotte,0.0,loss of speech or movement
+Anguilla,0.0,fever
+Anguilla,0.0,dry cough
+Anguilla,0.0,tiredness or fatigue
+Anguilla,0.0,aches and muscles
+Anguilla,0.0,sore throat
+Anguilla,0.0,diarrhoea
+Anguilla,0.0,conjunctivitis
+Anguilla,0.0,headache
+Anguilla,0.0,loss of taste or smell
+Anguilla,0.0,a rash on skin or discolouration of fingers or toes
+Anguilla,0.0,difficulty breathing or shortness of breath
+Anguilla,0.0,chest pain or pressure
+Anguilla,0.076923077,loss of speech or movement
+Wallis and Futuna,0.076923077,fever
+Wallis and Futuna,0.0,dry cough
+Wallis and Futuna,0.0,tiredness or fatigue
+Wallis and Futuna,0.0,aches and muscles
+Wallis and Futuna,0.0,sore throat
+Wallis and Futuna,0.0,diarrhoea
+Wallis and Futuna,0.0,conjunctivitis
+Wallis and Futuna,0.0,headache
+Wallis and Futuna,0.0,loss of taste or smell
+Wallis and Futuna,0.0,a rash on skin or discolouration of fingers or toes
+Wallis and Futuna,0.0,difficulty breathing or shortness of breath
+Wallis and Futuna,0.0,chest pain or pressure
+Wallis and Futuna,0.0,loss of speech or movement
+Sint Maarten,0.0,fever
+Sint Maarten,0.094017094,dry cough
+Sint Maarten,0.0,tiredness or fatigue
+Sint Maarten,0.0,aches and muscles
+Sint Maarten,0.0,sore throat
+Sint Maarten,0.0,diarrhoea
+Sint Maarten,0.0,conjunctivitis
+Sint Maarten,0.0,headache
+Sint Maarten,0.0,loss of taste or smell
+Sint Maarten,0.0,a rash on skin or discolouration of fingers or toes
+Sint Maarten,0.0,difficulty breathing or shortness of breath
+Sint Maarten,0.05982906,chest pain or pressure
+Sint Maarten,0.0,loss of speech or movement
+Western Sahara,0.076923077,fever
+Western Sahara,0.076923077,dry cough
+Western Sahara,0.0,tiredness or fatigue
+Western Sahara,0.0,aches and muscles
+Western Sahara,0.0,sore throat
+Western Sahara,0.0,diarrhoea
+Western Sahara,0.0,conjunctivitis
+Western Sahara,0.0,headache
+Western Sahara,0.0,loss of taste or smell
+Western Sahara,0.0,a rash on skin or discolouration of fingers or toes
+Western Sahara,0.0,difficulty breathing or shortness of breath
+Western Sahara,0.0,chest pain or pressure
+Western Sahara,0.0,loss of speech or movement
